@@ -1,5 +1,5 @@
 
-# Программист JavaScript Matveevsky Ilya
+# Программист JS/React Matveevsky Ilya
 - Занимаюсь разработкой систем для компаний такие как CRM, CMS
 - Разработку веду на JS библиотеке React
 - Работаю с БД на Postgre
