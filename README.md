@@ -1,4 +1,4 @@
-# Fullstack JS-разработчик — Matveevsky Ilya
+# Fullstack JS Developer — Matveevsky Ilya
 
 - Разрабатываю Telegram-ботов и web-системы
 - Frontend: React (JS)  
