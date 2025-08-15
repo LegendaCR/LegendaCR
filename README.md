@@ -34,7 +34,7 @@ Telegram-бот для продажи VPN-доступа.
 **Технологии:** React, Node.js, PostgreSQL, HTML, CSS.  
 
 ## Сообщество
-- Веду канал с проектами и прайсом: [Legenda | Solo Dev Level Up](https://t.me/Legenda_Dev)
+- Веду канал с проектами и разборами: [Legenda | Solo Dev Level Up](https://t.me/Legenda_Dev)
 
 ## Контакты
 - Telegram: [@Legenda_1Cr](https://t.me/Legenda_1Cr)  
