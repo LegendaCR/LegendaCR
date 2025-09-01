@@ -38,5 +38,5 @@ Telegram-бот для продажи VPN-доступа.
 
 ## Контакты
 - Telegram: [@Legenda_1Cr](https://t.me/Legenda_1Cr)  
-- Email: fulladress98@gmail.com  
 - GitHub: [Legenda1cr](https://github.com/Legenda1cr)
+- GitVerse: [Legenda1cr](https://gitverse.ru/Legenda_1cr)
