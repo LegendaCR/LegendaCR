@@ -1,6 +1,6 @@
 # Fullstack JS Developer — Matveevsky Ilya
 
-- Разрабатываю Telegram-ботов и web-системы
+- Разрабатываю Telegram-ботов и web-системы  
 - Frontend: React (JS)  
 - Backend: Node.js (Express)  
 - DB: PostgreSQL  
@@ -29,6 +29,11 @@ Telegram-бот для продажи VPN-доступа.
 Функционал: сценарии для клиентов, загрузка файлов, проверка ИНН, уведомления админов.  
 - **Технологии:** Node.js, TelegramBot API, файловое хранилище Telegram, MarkdownV2.  
 
+### [Legend Defense Bot](https://t.me/Legend_defense_bot)
+Антиспам-бот для Telegram-групп и каналов.  
+Функционал: удаление сообщений с запрещёнными словами, фильтрация обходных форматов (в е н о м, в.еном, ceкс и т.д.), защита от спама и мата. Управление доступно только администраторам.  
+- **Технологии:** Node.js, TelegramBot API, JSON-хранилище, алгоритм нормализации текста, расстояние Левенштейна.  
+
 ### CRM, CMS, сайты
 Разработка внутренних систем управления и корпоративных сайтов.  
 - **Технологии:** React, Node.js, PostgreSQL, HTML, CSS.  
@@ -38,5 +43,5 @@ Telegram-бот для продажи VPN-доступа.
 
 ## Контакты
 - Telegram: [@Legenda_1Cr](https://t.me/Legenda_1Cr)  
-- GitHub: [Legenda1cr](https://github.com/Legenda1cr)
-- GitVerse: [Legenda1cr](https://gitverse.ru/Legenda_1cr)
+- GitHub: [Legenda1cr](https://github.com/Legenda1cr)  
+- GitVerse: [Legenda1cr](https://gitverse.ru/Legenda_1cr)  
