@@ -42,6 +42,6 @@ Telegram-бот для продажи VPN-доступа.
 - Веду канал с проектами и разборами: [Legenda | Solo Dev Level Up](https://t.me/Legenda_Dev)
 
 ## Контакты
-- Telegram: [@Legenda_1Cr](https://t.me/Legenda_1Cr)  
+- Telegram: [@Legenda_CR](https://t.me/Legenda_CR)  
 - GitHub: [Legenda1cr](https://github.com/Legenda1cr)  
 - GitVerse: [Legenda1cr](https://gitverse.ru/Legenda_1cr)  
