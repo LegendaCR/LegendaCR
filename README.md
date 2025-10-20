@@ -43,5 +43,5 @@ Telegram-бот для продажи VPN-доступа.
 
 ## Контакты
 - Telegram: [@Legenda_CR](https://t.me/Legenda_CR)  
-- GitHub: [Legenda1cr](https://github.com/LegendaCR)  
-- GitVerse: [Legenda1cr](https://gitverse.ru/LegendaCR)  
+- GitHub: [LegendaCR](https://github.com/LegendaCR)  
+- GitVerse: [LegendaCR](https://gitverse.ru/LegendaCR)  
