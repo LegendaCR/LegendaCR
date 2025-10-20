@@ -24,7 +24,7 @@ Telegram-бот для продажи VPN-доступа.
 Музыкальный бот с поиском по Spotify и YouTube, скачиванием и отправкой аудио.  
 - **Технологии:** Node.js, TelegramBot API, Spotify Web API, YouTube (ytdl-core), FSM-подход.  
 
-### [Safroninc Bot](https://t.me/safroninc_bot)
+### [Safronic Bot](https://t.me/safroninc_bot)
 Бот для приёма заказов на сборку мебели.  
 Функционал: сценарии для клиентов, загрузка файлов, проверка ИНН, уведомления админов.  
 - **Технологии:** Node.js, TelegramBot API, файловое хранилище Telegram, MarkdownV2.  
@@ -43,5 +43,5 @@ Telegram-бот для продажи VPN-доступа.
 
 ## Контакты
 - Telegram: [@Legenda_CR](https://t.me/Legenda_CR)  
-- GitHub: [Legenda1cr](https://github.com/Legenda1cr)  
-- GitVerse: [Legenda1cr](https://gitverse.ru/Legenda_1cr)  
+- GitHub: [Legenda1cr](https://github.com/LegendaCR)  
+- GitVerse: [Legenda1cr](https://gitverse.ru/LegendaCR)  
