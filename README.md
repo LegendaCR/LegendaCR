@@ -23,7 +23,7 @@
 ## Core Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,linux,vscode,vim,arch,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,nginx,linux,vscode,vim,arch,github" alt="Skills" />
 </div>
 
 ---
