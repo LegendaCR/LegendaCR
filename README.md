@@ -20,12 +20,13 @@
 - Web-системы (CRM / CMS) с ролями, бизнес-логикой и хранением документов
 - Инфраструктуру (Linux, Docker, nginx)
 
-## Чем я занимаюсь на практике
+## Core Skills
 
-- Проектирую архитектуру backend-систем (Express + PostgreSQL)
-- Реализую сложную бизнес-логику (аудит, роли, статусы, документы)
-- Пишу Telegram-ботов с FSM, платежами и анти-абьюз логикой
-- Деплою и сопровождаю проекты в production (Docker, nginx, Linux)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,linux,vscode,vim,arch,github" alt="Skills" />
+</div>
+
+---
 
 ## Tech Stack
 
@@ -46,17 +47,9 @@
 
 **Tools**
 - Git, GitHub, GitLab
-- VS Code, Vim
+- VS Code, Cursor, Vim
 
 - Работаю в компании [URS-Russia](https://urs-rus.com)
-
----
-
-## Core Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,linux,vscode,vim,arch,github" alt="Skills" />
-</div>
 
 ---
 
