@@ -26,7 +26,7 @@
 ## Core Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,docker,linux,vscode,vim,arch,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,linux,vscode,vim,arch,github" alt="Skills" />
 </div>
 
 ---
@@ -35,6 +35,14 @@
 
 **Санкт-Петербургский политехнический университет Петра Великого**  
 *Программная инженерия*
+
+---
+
+## Сайты и системы
+
+- Мой сайт-резюме: [legenda-store.ru](https://legenda-store.ru)
+- Сайт + система: [safronic.ru](https://safronic.ru)
+- Моя платформа для легких игр: [legenda-games.ru](https://legenda-games.ru)
 
 ---
 
