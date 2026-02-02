@@ -30,26 +30,45 @@
 
 ## Tech Stack
 
-**Frontend**
-- React (JS), HTML, CSS
-
-**Backend**
-- Node.js (Express)
-- REST API, JWT, FSM
-
-**Database**
-- PostgreSQL
-
-**DevOps / Infra**
-- Docker, nginx
-- Linux (Arch / Ubuntu)
-- PM2
-
-**Tools**
-- Git, GitHub, GitLab
-- VS Code, Cursor, Vim
-
-- Работаю в компании [URS-Russia](https://urs-rus.com)
+<table align="center">
+  <thead>
+    <tr>
+      <th width="19%" align="center"><br>Frontend</th>
+      <th width="22%" align="center"><br>Backend</th>
+      <th width="14%" align="center"><br>Database</th>
+      <th width="25%" align="center"><br>DevOps & Infra</th>
+      <th width="20%" align="center"><br>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="32" /><br/>
+        <b>React (JS)</b><br>
+        HTML, CSS
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" /><br/>
+        <b>Node.js (Express)</b><br>
+        REST API, JWT, FSM
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=postgres" height="32" /><br/>
+        <b>PostgreSQL</b>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=docker,linux,nginx" height="32" /><br/>
+        <b>Docker, nginx</b><br>
+        Linux (Arch / Ubuntu), PM2
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim" height="32"/><br/>
+        <b>Git, GitHub, GitLab</b><br>
+        VS Code, Cursor, Vim
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -57,6 +76,8 @@
 
 **Санкт-Петербургский политехнический университет Петра Великого**  
 *Программная инженерия*
+
+- Работаю в компании [URS-Russia](https://urs-rus.com)
 
 ---
 
@@ -125,7 +146,7 @@ Telegram-бот для продажи VPN-доступа.
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 - Telegram: [@Legenda_CR](https://t.me/Legenda_CR)  
 - GitHub: [LegendaCR](https://github.com/LegendaCR)  
