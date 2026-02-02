@@ -11,7 +11,7 @@
 
 ---
 
-## 🦄 О себе
+## О себе
 
 **Fullstack JS Developer — Матвеевский Илья**
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 💼 Core Skills
+## Core Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,html,css,git,docker,linux,vscode,vim,arch,github,cursor" alt="Skills" />
@@ -31,14 +31,14 @@
 
 ---
 
-## 🎓 Образование
+## Образование
 
 **Санкт-Петербургский политехнический университет Петра Великого**  
 *Программная инженерия*
 
 ---
 
-## 🚀 Основные проекты
+## Основные проекты
 
 ### [Legend VPN Bot](https://t.me/Legend_VPN_bot)
 Telegram-бот для продажи VPN-доступа.  
@@ -79,14 +79,14 @@ Telegram-бот для продажи VPN-доступа.
 
 ---
 
-## 👥 Сообщество
+## Сообщество
 
 Веду канал с проектами и разборами:  
 [Legenda | Solo Dev Level Up](https://t.me/Legenda_Dev)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendaCR&stroke=808080&background=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
