@@ -15,10 +15,39 @@
 
 **Fullstack JS Developer — Матвеевский Илья**
 
-- Разрабатываю Telegram-ботов и web-системы  
-- **Frontend:** React (JS)  
-- **Backend:** Node.js (Express)  
-- **База данных:** PostgreSQL  
+Проектирую и реализую production-решения:
+- Telegram-боты с платежами и автоматизацией
+- Web-системы (CRM / CMS) с ролями, бизнес-логикой и хранением документов
+- Инфраструктуру (Linux, Docker, nginx)
+
+## Чем я занимаюсь на практике
+
+- Проектирую архитектуру backend-систем (Express + PostgreSQL)
+- Реализую сложную бизнес-логику (аудит, роли, статусы, документы)
+- Пишу Telegram-ботов с FSM, платежами и анти-абьюз логикой
+- Деплою и сопровождаю проекты в production (Docker, nginx, Linux)
+
+## Tech Stack
+
+**Frontend**
+- React (JS), HTML, CSS
+
+**Backend**
+- Node.js (Express)
+- REST API, JWT, FSM
+
+**Database**
+- PostgreSQL
+
+**DevOps / Infra**
+- Docker, nginx
+- Linux (Arch / Ubuntu)
+- PM2
+
+**Tools**
+- Git, GitHub, GitLab
+- VS Code, Vim
+
 - Работаю в компании [URS-Russia](https://urs-rus.com)
 
 ---
