@@ -164,10 +164,10 @@ https://t.me/Legenda_Dev
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LegendaCR&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendaCR&show_icons=true&hide_border=true" />
-</p>
+- Active daily development
+- Production projects
+- Fullstack & Telegram bots
+- Own infrastructure & deployments
 
 ---
 
