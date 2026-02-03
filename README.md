@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/ts.svg" width="32" />
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nodejs.svg" width="32" />
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/postgres.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/html.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/css.svg" width="28" />
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/docker.svg" width="32" />
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nginx.svg" width="32" />
   <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/linux.svg" width="32" />
