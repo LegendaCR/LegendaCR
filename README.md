@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for LegendaCR -->
 
 <h1 align="center" style="border-bottom: none;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7ED9FC&vCenter=true&width=435&lines=Hi,+I'm+LegendaCR!;Welcome+to+my+GitHub+profile!;Building+and+learning+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7ED9FC&vCenter=true&width=435&lines=Hi,+I'm+Matveevsky+Ilya!;Welcome+to+my+GitHub+profile!;Building+and+learning+every+day!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
