@@ -168,10 +168,10 @@ https://t.me/Legenda_Dev
 
 ## GitHub Stats
 
-- Active daily development
-- Production projects
-- Fullstack & Telegram bots
-- Own infrastructure & deployments
+- Активная ежедневная разработка
+- Производственные проекты
+- Боты Fullstack и Telegram
+- Собственная инфраструктура и развертывания
 
 ---
 
