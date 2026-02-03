@@ -20,11 +20,25 @@
 - Web-системы (CRM / CMS) с ролями, бизнес-логикой и хранением документов
 - Инфраструктуру (Linux, Docker, nginx)
 
+---
+
 ## Core Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,git,gitlab,docker,nginx,linux,vscode,vim,arch,github" alt="Skills" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/react.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/js.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/ts.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nodejs.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/postgres.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/docker.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nginx.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/linux.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/git.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/github.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/gitlab.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vscode.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vim.svg" width="32" />
+</p>
 
 ---
 
@@ -33,37 +47,43 @@
 <table align="center">
   <thead>
     <tr>
-      <th width="19%" align="center"><br>Frontend</th>
-      <th width="22%" align="center"><br>Backend</th>
-      <th width="14%" align="center"><br>Database</th>
-      <th width="25%" align="center"><br>DevOps & Infra</th>
-      <th width="20%" align="center"><br>Tools</th>
+      <th width="20%" align="center">Frontend</th>
+      <th width="22%" align="center">Backend</th>
+      <th width="14%" align="center">Database</th>
+      <th width="24%" align="center">DevOps & Infra</th>
+      <th width="20%" align="center">Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=react,js,html,css" height="32" /><br/>
-        <b>React (JS)</b><br>
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/react.svg" width="28" /><br/>
+        <b>React (JS)</b><br/>
         HTML, CSS
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" /><br/>
-        <b>Node.js (Express)</b><br>
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nodejs.svg" width="28" /><br/>
+        <b>Node.js (Express)</b><br/>
         REST API, JWT, FSM
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=postgres" height="32" /><br/>
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/postgres.svg" width="28" /><br/>
         <b>PostgreSQL</b>
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=docker,linux,nginx" height="32" /><br/>
-        <b>Docker, nginx</b><br>
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/docker.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nginx.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/linux.svg" width="28" /><br/>
+        <b>Docker, nginx</b><br/>
         Linux (Arch / Ubuntu), PM2
       </td>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim" height="32"/><br/>
-        <b>Git, GitHub, GitLab</b><br>
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/git.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/github.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/gitlab.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vscode.svg" width="28" />
+        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vim.svg" width="28" /><br/>
+        <b>Git / GitHub / GitLab</b><br/>
         VS Code, Cursor, Vim
       </td>
     </tr>
@@ -85,75 +105,80 @@
 
 - Мой сайт-резюме: [legenda-store.ru](https://legenda-store.ru)
 - Сайт + система: [safronic.ru](https://safronic.ru)
-- Моя платформа для легких игр: [legenda-games.ru](https://legenda-games.ru)
+- Платформа мини-игр: [legenda-games.ru](https://legenda-games.ru)
 
 ---
 
 ## Основные проекты
 
-### [Legend VPN Bot](https://t.me/Legend_VPN_bot)
-Telegram-бот для продажи VPN-доступа.  
-Функционал: оплата через YooKassa, автоматическая выдача ключей, инструкции по подключению.  
-**Технологии:** Node.js, TelegramBot API, YooKassa API, Xray-core (VLESS), Hiddify/V2RayTun, nginx.
+### Legend VPN Bot
+Telegram-бот с полной автоматизацией продажи VPN-доступа.  
+**Функционал:** оплата, автоматическая выдача ключей, инструкции, поддержка пользователей.  
+**Стек:** Node.js, Telegram Bot API, YooKassa API, Xray-core (VLESS), nginx  
+https://t.me/Legend_VPN_bot
 
 ---
 
-### [@all Bot](https://t.me/Legend_all_bot)
-Массовое упоминание админов чата по команде.  
-**Технологии:** Node.js, TelegramBot API.
+### @all Bot
+Массовое упоминание администраторов чата по команде.  
+**Стек:** Node.js, Telegram Bot API  
+https://t.me/Legend_all_bot
 
 ---
 
-### [Legend Musical Bot](https://t.me/Legend_Musical_bot)
+### Legend Musical Bot
 Музыкальный бот с поиском по Spotify и YouTube, скачиванием и отправкой аудио.  
-**Технологии:** Node.js, TelegramBot API, Spotify Web API, YouTube (ytdl-core), FSM-подход.
+**Стек:** Node.js, Telegram Bot API, Spotify Web API, YouTube, FSM  
+https://t.me/Legend_Musical_bot
 
 ---
 
-### [Safronic Bot](https://t.me/safroninc_bot)
+### Safronic Bot
 Бот для приёма заказов на сборку мебели.  
-Функционал: сценарии для клиентов, загрузка файлов, проверка ИНН, уведомления админов.  
-**Технологии:** Node.js, TelegramBot API, файловое хранилище Telegram, MarkdownV2.
+**Функционал:** сценарии, загрузка файлов, проверка ИНН, уведомления админов.  
+**Стек:** Node.js, Telegram Bot API, MarkdownV2  
+https://t.me/safroninc_bot
 
 ---
 
-### [Legend Defense Bot](https://t.me/Legend_defense_bot)
+### Legend Defense Bot
 Антиспам-бот для Telegram-групп и каналов.  
-Функционал: удаление сообщений с запрещёнными словами, фильтрация обходных форматов, защита от спама и мата. Управление доступно только администраторам.  
-**Технологии:** Node.js, TelegramBot API, JSON-хранилище, алгоритм нормализации текста, расстояние Левенштейна.
+**Функционал:** фильтрация, защита от обходов, анти-мат.  
+**Стек:** Node.js, Telegram Bot API, JSON, алгоритмы нормализации  
+https://t.me/Legend_defense_bot
 
 ---
 
-### CRM, CMS, сайты
+### CRM / CMS / сайты
 Разработка внутренних систем управления и корпоративных сайтов.  
-**Технологии:** React, Node.js, PostgreSQL, HTML, CSS.
+**Стек:** React, Node.js, PostgreSQL, HTML, CSS.
 
 ---
 
 ## Сообщество
 
 Веду канал с проектами и разборами:  
-[Legenda | Solo Dev Level Up](https://t.me/Legenda_Dev)
+https://t.me/Legenda_Dev
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendaCR&stroke=808080&background=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendaCR&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendaCR&stroke=808080&background=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LegendaCR&show_icons=true&theme=transparent" />
 </p>
 
 ---
 
 ## Контакты
 
-- Telegram: [@Legenda_CR](https://t.me/Legenda_CR)  
-- GitHub: [LegendaCR](https://github.com/LegendaCR)  
-- GitVerse: [LegendaCR](https://gitverse.ru/LegendaCR)  
+- Telegram: https://t.me/Legenda_CR  
+- GitHub: https://github.com/LegendaCR  
+- GitVerse: https://gitverse.ru/LegendaCR  
 
 ---
 
 <p align="center">
-  <em>“Изучаю, создаю, автоматизирую. Делюсь опытом!”</em>
+  <em>«Изучаю, создаю, автоматизирую. Делюсь опытом!»</em>
 </p>
