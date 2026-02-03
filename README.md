@@ -58,8 +58,8 @@
     <tr>
       <td align="center" valign="top">
         <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/react.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/html.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/css.svg" width="28" /><br/>
+        <img src="https://github.com/LegendaCR/Legendacompany/blob/master/assets/icons/html.svg" width="28" />
+        <img src="https://github.com/LegendaCR/Legendacompany/blob/master/assets/icons/css.svg" width="28" /><br/>
         <b>React (JS)</b><br/>
         HTML, CSS
       </td>
