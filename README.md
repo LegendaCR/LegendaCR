@@ -123,17 +123,12 @@ https://t.me/Legend_VPN_bot
 
 ---
 
-### @all Bot
-Массовое упоминание администраторов чата по команде.  
-**Стек:** Node.js, Telegram Bot API  
-https://t.me/Legend_all_bot
-
----
-
-### Legend Musical Bot
-Музыкальный бот с поиском по Spotify и YouTube, скачиванием и отправкой аудио.  
-**Стек:** Node.js, Telegram Bot API, Spotify Web API, YouTube, FSM  
-https://t.me/Legend_Musical_bot
+### VOID Platform
+Коммерческая Telegram SaaS-платформа для монетизации каналов через платные подписки.  
+Реализовал backend, архитектуру, Telegram-ботов и инфраструктуру запуска: SaaS-бот для администраторов, Gatekeeper-боты для подписчиков, платёжные сценарии, управление тарифами, выдачу доступа в каналы, автокик, уведомления, биллинг и деплой в Docker.  
+**Стек:** Node.js, Express, PostgreSQL, Telegram Bot API, Docker, nginx, Cloudflare Tunnel, платёжная интеграция.  
+**Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.  
+[Telegram-проект VOID](https://t.me/voidmoneta_bot)
 
 ---
 
@@ -150,6 +145,13 @@ https://t.me/safroninc_bot
 **Функционал:** фильтрация, защита от обходов, анти-мат.  
 **Стек:** Node.js, Telegram Bot API, JSON, алгоритмы нормализации  
 https://t.me/Legend_defense_bot
+
+---
+
+### @all Bot
+Массовое упоминание администраторов чата по команде.  
+**Стек:** Node.js, Telegram Bot API  
+https://t.me/Legend_all_bot
 
 ---
 
