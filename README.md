@@ -109,7 +109,6 @@
 
 - Мой сайт-резюме: [legenda-store.ru](https://legenda-store.ru)
 - Сайт + система: [safronic.ru](https://safronic.ru)
-- Платформа мини-игр: [legenda-games.ru](https://legenda-games.ru)
 
 ---
 
