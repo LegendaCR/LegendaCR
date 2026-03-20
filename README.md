@@ -163,7 +163,7 @@ https://t.me/Legend_all_bot
 ## Сообщество
 
 Веду канал с проектами и разборами:  
-https://t.me/Legenda_Dev
+https://t.me/legasu
 
 ---
 
