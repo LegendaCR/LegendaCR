@@ -114,12 +114,24 @@
 
 ## Основные проекты
 
-### VOID Platform
+### Attract Platform
 Коммерческая Telegram SaaS-платформа для монетизации каналов через платные подписки.  
 Реализовал backend, архитектуру, Telegram-ботов и инфраструктуру запуска: SaaS-бот для администраторов, Gatekeeper-боты для подписчиков, платёжные сценарии, управление тарифами, выдачу доступа в каналы, автокик, уведомления, биллинг и деплой в Docker.  
 **Стек:** Node.js, Express, PostgreSQL, Telegram Bot API, Docker, nginx, Cloudflare Tunnel, платёжная интеграция.  
 **Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.  
 https://t.me/voidmoneta_bot
+
+---
+
+### Brain Train (Mozgotren Online)
+Telegram Mini App для регулярных тренировок памяти, внимания и логики: набор игр и режимов (в т.ч. таймерные викторины и аркадные мини‑игры), рейтинги, сезоны и монетизация (Telegram Stars, интеграция с платёжным провайдером).  
+
+Реализовал монорепозиторий под прод: клиент Mini App на **React / Vite (TypeScript)**, **REST API** на **Node.js (Express)** с проверкой очков на сервере, **Telegram‑бот**, лендинг, **PostgreSQL**, JWT и миграции, платёжные вебхуки, **nginx** и деплой (**PM2**, скрипты выкладки).  
+
+**Стек:** TypeScript, React, Vite, Node.js (Express), PostgreSQL, Telegram Bot API и Mini Apps, nginx, Docker, при необходимости Cloudflare Tunnel.  
+**Результат:** рабочий прод на поддомене Mini App (`brain.legenda-store.ru`) и бот для входа в приложение из Telegram.  
+https://t.me/braintrainru_bot  
+https://brain.legenda-store.ru  
 
 ---
 
