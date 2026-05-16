@@ -119,7 +119,7 @@
 Реализовал backend, архитектуру, Telegram-ботов и инфраструктуру запуска: SaaS-бот для администраторов, Gatekeeper-боты для подписчиков, платёжные сценарии, управление тарифами, выдачу доступа в каналы, автокик, уведомления, биллинг и деплой в Docker.  
 **Стек:** Node.js, Express, PostgreSQL, Telegram Bot API, Docker, nginx, Cloudflare Tunnel, платёжная интеграция.  
 **Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.  
-https://t.me/voidmoneta_bot
+https://t.me/attractsub_bot
 
 ---
 
