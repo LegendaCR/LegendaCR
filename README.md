@@ -123,7 +123,7 @@ https://t.me/attractsub_bot
 
 ---
 
-### Brain Train (Mozgotren Online)
+### Brain Train
 Telegram Mini App для регулярных тренировок памяти, внимания и логики: набор игр и режимов (в т.ч. таймерные викторины и аркадные мини‑игры), рейтинги, сезоны и монетизация (Telegram Stars, интеграция с платёжным провайдером).  
 
 Реализовал монорепозиторий под прод: клиент Mini App на **React / Vite (TypeScript)**, **REST API** на **Node.js (Express)** с проверкой очков на сервере, **Telegram‑бот**, лендинг, **PostgreSQL**, JWT и миграции, платёжные вебхуки, **nginx** и деплой (**PM2**, скрипты выкладки).  
@@ -131,7 +131,6 @@ Telegram Mini App для регулярных тренировок памяти,
 **Стек:** TypeScript, React, Vite, Node.js (Express), PostgreSQL, Telegram Bot API и Mini Apps, nginx, Docker, при необходимости Cloudflare Tunnel.  
 **Результат:** рабочий прод на поддомене Mini App (`brain.legenda-store.ru`) и бот для входа в приложение из Telegram.  
 https://t.me/braintrainru_bot  
-https://brain.legenda-store.ru  
 
 ---
 
