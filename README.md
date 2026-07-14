@@ -108,10 +108,9 @@
 
 ---
 
-## Сайты и системы
+## Сайт
 
 - Мой сайт-резюме: [legenda-store.ru](https://legenda-store.ru)
-- Сайт + система: [safronic.ru](https://safronic.ru)
 
 ---
 
