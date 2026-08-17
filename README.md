@@ -149,10 +149,14 @@ https://t.me/braintrainru_bot
 ---
 
 ### Safronic Bot
-Бот для приёма заказов на сборку мебели.  
+Система для бизнеса по сборке мебели: сайт с личным кабинетом и два Telegram-бота.
+
+Реализовал клиентский бот @safroninc_bot — сценарии заказа мебели, сборки (юрлицо / дизайнер / производитель), замера и просчёта; пошаговый диалог, загрузка файлов, проверка ИНН, уведомления в рабочий чат; админка в боте (заявки, статусы, ответ клиенту). Отдельный бот-калькулятор @safronic_calc_bot — расчёт по XLSX-прайсам с fuzzy-поиском. Backend и ЛК на Express + PostgreSQL + React: заявки из бота отображаются на сайте, статистика, файлы. Деплой: Docker, nginx, PM2.
 **Функционал:** сценарии, загрузка файлов, проверка ИНН, уведомления админов.  
-**Стек:** Node.js, Telegram Bot API, MarkdownV2  
+**Стек:** Node.js, Express, PostgreSQL, React, Vite, Telegram Bot API, Fuse.js, xlsx, Docker, nginx, PM2. 
 https://t.me/safroninc_bot
+https://t.me/safronic_calc_bot
+https://safronic.ru/
 
 ---
 
