@@ -156,7 +156,6 @@ https://t.me/braintrainru_bot
 **Стек:** Node.js, Express, PostgreSQL, React, Vite, Telegram Bot API, Fuse.js, xlsx, Docker, nginx, PM2. 
 https://t.me/safroninc_bot
 https://t.me/safronic_calc_bot
-https://safronic.ru/
 
 ---
 
