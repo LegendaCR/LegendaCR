@@ -123,7 +123,8 @@
 Реализовал monorepo под прод: клиент Mini App на **React / Vite (TypeScript)** с bento-главной (разборы, подкасты, техники, стримы и др.), вкладками **Чаты** и **Профиль**, поиском по материалам и **REST API** на **Node.js (Express)** с проверкой Telegram `initData`, **JWT** и контролем доступа по подписке на канал; **Telegram-бот** с Web App-кнопкой и webhook, встроенную и отдельную **админ-панель** (CRUD разделов, чатов, баннеров, загрузка медиа), **PostgreSQL**, **nginx**, деплой через **PM2**, health-check и бэкапы БД.
 
 **Стек:** TypeScript, React, Vite, React Router, Node.js (Express), PostgreSQL, JWT, Zod, Telegraf, Telegram Mini Apps, nginx, PM2.  
-**Результат:** рабочий прод — навигационное Telegram-приложение с закрытым доступом, управляемым контентом и модераторской админкой.  
+**Результат:** рабочий прод — навигационное Telegram-приложение с закрытым доступом, управляемым контентом и модераторской админкой.
+
 https://t.me/verdikt_menu_bot
 
 ### Attract Platform
@@ -132,7 +133,8 @@ https://t.me/verdikt_menu_bot
 Реализовал backend, архитектуру, Telegram-ботов и инфраструктуру запуска: SaaS-бот для администраторов, Gatekeeper-боты для подписчиков, платёжные сценарии, управление тарифами, выдачу доступа в каналы, автокик, уведомления, биллинг и деплой в Docker.
 
 **Стек:** Node.js, Express, PostgreSQL, Telegram Bot API, Docker, nginx, Cloudflare Tunnel, платёжная интеграция.  
-**Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.  
+**Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.
+
 https://t.me/attractsub_bot
 
 ---
@@ -143,7 +145,8 @@ Telegram Mini App для регулярных тренировок памяти,
 Реализовал монорепозиторий под прод: клиент Mini App на **React / Vite (TypeScript)**, **REST API** на **Node.js (Express)** с проверкой очков на сервере, **Telegram‑бот**, лендинг, **PostgreSQL**, JWT и миграции, платёжные вебхуки, **nginx** и деплой (**PM2**, скрипты выкладки).  
 
 **Стек:** TypeScript, React, Vite, Node.js (Express), PostgreSQL, Telegram Bot API и Mini Apps, nginx, Docker, при необходимости Cloudflare Tunnel.  
-**Результат:** рабочий прод на поддомене Mini App (`brain.legenda-store.ru`) и бот для входа в приложение из Telegram.  
+**Результат:** рабочий прод на поддомене Mini App (`brain.legenda-store.ru`) и бот для входа в приложение из Telegram.
+
 https://t.me/braintrainru_bot  
 
 ---
@@ -166,14 +169,16 @@ https://safronic.ru
 ### Legend Defense Bot
 Антиспам-бот для Telegram-групп и каналов.  
 **Функционал:** фильтрация, защита от обходов, анти-мат.  
-**Стек:** Node.js, Telegram Bot API, JSON, алгоритмы нормализации  
+**Стек:** Node.js, Telegram Bot API, JSON, алгоритмы нормализации
+
 https://t.me/Legend_defense_bot
 
 ---
 
 ### @all Bot
 Массовое упоминание администраторов чата по команде.  
-**Стек:** Node.js, Telegram Bot API  
+**Стек:** Node.js, Telegram Bot API
+
 https://t.me/Legend_all_bot
 
 ---
@@ -186,7 +191,8 @@ https://t.me/Legend_all_bot
 
 ## Сообщество
 
-Веду канал с проектами и разборами:  
+Веду канал с проектами и разборами:
+
 https://t.me/legasu
 
 ---
