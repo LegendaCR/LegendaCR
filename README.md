@@ -127,6 +127,8 @@
 
 https://t.me/verdikt_menu_bot
 
+---
+
 ### Attract Platform
 Коммерческая Telegram SaaS-платформа для монетизации каналов через платные подписки.
 
