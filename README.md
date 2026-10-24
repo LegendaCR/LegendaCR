@@ -24,29 +24,35 @@ Fullstack-разработчик из Санкт-Петербурга (**СПб�
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>🤖 Telegram-боты</b><br />
+      <img src="./assets/icons/bot.svg" width="40" alt="" /><br />
+      <b>Telegram-боты</b><br />
       <sub>Платежи и Telegram Stars, FSM-сценарии, админки внутри бота, выдача доступа в каналы, антиспам</sub>
     </td>
     <td width="33%" valign="top">
-      <b>📱 Mini Apps</b><br />
+      <img src="./assets/icons/miniapp.svg" width="40" alt="" /><br />
+      <b>Mini Apps</b><br />
       <sub>React-клиенты внутри Telegram, проверка <code>initData</code>, JWT, рейтинги, сезоны, монетизация</sub>
     </td>
     <td width="33%" valign="top">
-      <b>💳 SaaS-платформы</b><br />
+      <img src="./assets/icons/saas.svg" width="40" alt="" /><br />
+      <b>SaaS-платформы</b><br />
       <sub>Подписки, тарифы, биллинг, вебхуки платёжных провайдеров, мультибот-архитектура</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <b>🗂 Web-системы</b><br />
+      <img src="./assets/icons/web.svg" width="40" alt="" /><br />
+      <b>Web-системы</b><br />
       <sub>CRM / CMS, роли и права, личные кабинеты, документы и файлы, статистика</sub>
     </td>
     <td width="33%" valign="top">
-      <b>🌐 Сайты</b><br />
+      <img src="./assets/icons/site.svg" width="40" alt="" /><br />
+      <b>Сайты</b><br />
       <sub>Лендинги, корпоративные и многостраничные проекты с адаптивом и вниманием к деталям</sub>
     </td>
     <td width="33%" valign="top">
-      <b>⚙️ Инфраструктура</b><br />
+      <img src="./assets/icons/infra.svg" width="40" alt="" /><br />
+      <b>Инфраструктура</b><br />
       <sub>Linux, Docker, nginx, PM2, Cloudflare Tunnel, SSL, бэкапы, health-check, CI-скрипты деплоя</sub>
     </td>
   </tr>
