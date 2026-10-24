@@ -1,221 +1,182 @@
-<!-- GitHub Profile README for LegendaCR -->
+<!-- GitHub Profile README · LegendaCR · Ilya Matveevsky -->
 
-<h1 align="center" style="border-bottom: none;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7ED9FC&vCenter=true&width=435&lines=Hi,+I'm+Ilya+Matveevsky!;Welcome+to+my+GitHub+profile!;Building+and+learning+every+day!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/LegendaCR?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=LegendaCR&style=flat&color=blue" alt="Profile Views" />
-</p>
-
----
-
-## О себе
-
-**Fullstack JS Developer — Матвеевский Илья**
-
-**~2.5 года** активной разработки: постоянно веду и выкатываю production-проекты — от идеи до деплоя.  
-
-Проектирую и реализую production-решения:
-- **Telegram-боты** — платежи (в т.ч. Telegram Stars), автоматизация, админ-сценарии
-- **Telegram Mini Apps** — игры, сервисы и монетизация внутри Telegram (Telegram Stars, вебхуки)
-- **Web-сайты** — от лендингов и корпоративных страниц до многостраничных проектов
-- **Web-системы** (CRM / CMS) — роли, бизнес-логика, хранение документов
-- **Автоматизация FunPay** — автоответы, автоподнятие лотов, периодические сообщения в чаты и др.
-- **Инфраструктура** — Linux, Docker, nginx, деплой и сопровождение
-
----
-
-## Core Skills
+<a href="https://legenda-store.ru">
+  <img src="./assets/hero.svg" width="100%" alt="Илья Матвеевский — Fullstack Developer. Telegram-продукты и web-системы для бизнеса" />
+</a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/react.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/js.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/ts.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nodejs.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/postgres.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/html.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/css.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/docker.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nginx.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/linux.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/git.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/github.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/gitlab.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vscode.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vim.svg" width="32" />
+  <a href="https://legenda-store.ru"><img src="https://img.shields.io/badge/legenda--store.ru-0b0d12?style=for-the-badge&logo=googlechrome&logoColor=93c5fd" alt="Website" /></a>
+  <a href="https://t.me/Legenda_CR"><img src="https://img.shields.io/badge/Telegram-0b0d12?style=for-the-badge&logo=telegram&logoColor=93c5fd" alt="Telegram" /></a>
+  <a href="https://t.me/legasu"><img src="https://img.shields.io/badge/Канал_@legasu-0b0d12?style=for-the-badge&logo=telegram&logoColor=93c5fd" alt="Telegram channel" /></a>
+  <a href="https://gitverse.ru/LegendaCR"><img src="https://img.shields.io/badge/GitVerse-0b0d12?style=for-the-badge&logo=git&logoColor=93c5fd" alt="GitVerse" /></a>
 </p>
 
----
+<img src="./assets/stats.svg" width="100%" alt="07 production-проектов · ~2.5 года коммерческой разработки · Full-cycle · СПбПУ" />
 
-## Tech Stack
+<br />
 
-<table align="center">
-  <thead>
-    <tr>
-      <th width="20%" align="center">Frontend</th>
-      <th width="22%" align="center">Backend</th>
-      <th width="14%" align="center">Database</th>
-      <th width="24%" align="center">DevOps & Infra</th>
-      <th width="20%" align="center">Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/react.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/html.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/css.svg" width="28" /><br/>
-        <b>React (JS)</b><br/>
-        HTML, CSS
-      </td>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nodejs.svg" width="28" /><br/>
-        <b>Node.js (Express)</b><br/>
-        REST API, JWT, FSM
-      </td>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/postgres.svg" width="28" /><br/>
-        <b>PostgreSQL</b>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/docker.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/nginx.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/linux.svg" width="28" /><br/>
-        <b>Docker, nginx</b><br/>
-        Linux (Arch / Ubuntu), PM2
-      </td>
-      <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/git.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/github.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/gitlab.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vscode.svg" width="28" />
-        <img src="https://raw.githubusercontent.com/LegendaCR/Legendacompany/master/assets/icons/vim.svg" width="28" /><br/>
-        <b>Git / GitHub / GitLab</b><br/>
-        VS Code, Cursor, Vim
-      </td>
-    </tr>
-  </tbody>
+## ◆ Обо мне
+
+Fullstack-разработчик из Санкт-Петербурга (**СПбПУ, программная инженерия**). Последние ~2.5 года делаю коммерческие продукты под ключ: беру задачу на уровне бизнес-цели, проектирую архитектуру, пишу фронт и бэк, подключаю платежи, разворачиваю на своём сервере и поддерживаю после запуска.
+
+Специализация — **экосистема Telegram**: боты, Mini Apps и SaaS-платформы с монетизацией. Плюс web-системы (CRM / CMS / личные кабинеты) и сайты.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🤖 Telegram-боты</b><br />
+      <sub>Платежи и Telegram Stars, FSM-сценарии, админки внутри бота, выдача доступа в каналы, антиспам</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>📱 Mini Apps</b><br />
+      <sub>React-клиенты внутри Telegram, проверка <code>initData</code>, JWT, рейтинги, сезоны, монетизация</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>💳 SaaS-платформы</b><br />
+      <sub>Подписки, тарифы, биллинг, вебхуки платёжных провайдеров, мультибот-архитектура</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🗂 Web-системы</b><br />
+      <sub>CRM / CMS, роли и права, личные кабинеты, документы и файлы, статистика</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🌐 Сайты</b><br />
+      <sub>Лендинги, корпоративные и многостраничные проекты с адаптивом и вниманием к деталям</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>⚙️ Инфраструктура</b><br />
+      <sub>Linux, Docker, nginx, PM2, Cloudflare Tunnel, SSL, бэкапы, health-check, CI-скрипты деплоя</sub>
+    </td>
+  </tr>
 </table>
 
----
+<br />
 
-## Образование
+## ◆ Стек
 
-**Санкт-Петербургский политехнический университет Петра Великого**  
-*Программная инженерия*
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css,tailwind&theme=dark" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,nginx,cloudflare,linux,arch,ubuntu&theme=dark" alt="Backend & Infra" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim&theme=dark" alt="Tools" />
+</p>
 
----
+| Слой | Технологии |
+| :-- | :-- |
+| **Frontend** | TypeScript, React, Vite, React Router, HTML / CSS |
+| **Backend** | Node.js, Express, REST API, JWT, Zod, FSM-сценарии |
+| **Telegram** | Bot API, Telegraf, Mini Apps, Telegram Stars, webhooks |
+| **Data** | PostgreSQL, миграции, бэкапы, XLSX-импорт, fuzzy-поиск (Fuse.js) |
+| **DevOps** | Docker, nginx, PM2, Cloudflare Tunnel, Linux (Arch / Ubuntu) |
 
-## Сайт
+<br />
 
-- Мой сайт-резюме: [legenda-store.ru](https://legenda-store.ru)
+## ◆ Избранные проекты
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>База Вердикта</h3>
+      <sub><b>Telegram Mini App · закрытое сообщество</b></sub>
+      <p>Навигационное приложение для участников сообщества Максима Вердикта: единая точка входа к разборам, подкастам, стримам и чатам вместо закрепов и ручного поиска.</p>
+      <p>
+        ▸ Bento-главная, поиск по материалам, вкладки «Чаты» / «Профиль»<br />
+        ▸ Доступ по подписке на канал: <code>initData</code> → JWT<br />
+        ▸ Встроенная и отдельная админ-панель, CRUD контента, медиа<br />
+        ▸ Бот с Web App-кнопкой, webhook, health-check, бэкапы БД
+      </p>
+      <p><code>TypeScript</code> <code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Zod</code> <code>Telegraf</code></p>
+      <a href="https://t.me/verdikt_menu_bot">→ @verdikt_menu_bot</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Attract Platform</h3>
+      <sub><b>Telegram SaaS · монетизация каналов</b></sub>
+      <p>Коммерческая платформа платных подписок на Telegram-каналы. Отвечал за архитектуру, backend, ботов и инфраструктуру запуска.</p>
+      <p>
+        ▸ SaaS-бот для владельцев каналов + Gatekeeper-боты для подписчиков<br />
+        ▸ Тарифы, биллинг, несколько сценариев оплаты<br />
+        ▸ Автоматическая выдача доступа, автокик, уведомления<br />
+        ▸ Docker + nginx + Cloudflare Tunnel
+      </p>
+      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Bot API</code> <code>Docker</code></p>
+      <a href="https://t.me/attractsub_bot">→ @attractsub_bot</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Brain Train</h3>
+      <sub><b>Telegram Mini App · игры для мозга</b></sub>
+      <p>Тренировки памяти, внимания и логики: таймерные викторины, аркадные мини-игры, рейтинги и сезоны.</p>
+      <p>
+        ▸ Серверная валидация очков — защита рейтинга от накрутки<br />
+        ▸ Монетизация: Telegram Stars + платёжный провайдер<br />
+        ▸ Monorepo: Mini App, API, бот, лендинг<br />
+        ▸ Миграции, платёжные вебхуки, скрипты выкладки
+      </p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Express</code> <code>PostgreSQL</code> <code>nginx</code></p>
+      <a href="https://t.me/braintrainru_bot">→ @braintrainru_bot</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Safronic</h3>
+      <sub><b>Бизнес-система · сборка мебели</b></sub>
+      <p>Сайт с личным кабинетом и два Telegram-бота, связанные общим backend: заявки из бота сразу появляются в ЛК.</p>
+      <p>
+        ▸ Сценарии заказа, сборки, замера и просчёта, проверка ИНН<br />
+        ▸ Админка в боте: заявки, статусы, ответ клиенту<br />
+        ▸ Бот-калькулятор по XLSX-прайсам с fuzzy-поиском<br />
+        ▸ ЛК со статистикой и файлами
+      </p>
+      <p><code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Fuse.js</code> <code>xlsx</code> <code>Docker</code></p>
+      <a href="https://safronic.ru">→ safronic.ru</a> · <a href="https://t.me/safroninc_bot">@safroninc_bot</a> · <a href="https://t.me/safronic_calc_bot">@safronic_calc_bot</a>
+    </td>
+  </tr>
+</table>
 
-## Основные проекты
+<details>
+<summary><b>Ещё проекты</b></summary>
+<br />
 
-### База Вердикта — приложение-навигация для Максима Вердикта
+| Проект | Что это | Стек |
+| :-- | :-- | :-- |
+| [**Legend Defense Bot**](https://t.me/Legend_defense_bot) | Антиспам для групп и каналов: фильтрация, нормализация текста против обходов, анти-мат | Node.js, Bot API |
+| [**@all Bot**](https://t.me/Legend_all_bot) | Массовое упоминание участников чата по команде | Node.js, Bot API |
+| **FunPay Automation** | Автоответы, автоподнятие лотов, периодические сообщения в чаты | Node.js |
+| **CRM / CMS / сайты** | Внутренние системы управления и корпоративные сайты под заказ | React, Node.js, PostgreSQL |
 
-Закрытое Telegram Mini App для участников сообщества «База Вердикта»: единая точка входа к контенту и чатам вместо длинных закрепов и ручного поиска по каналам.
+</details>
 
-Реализовал monorepo под прод: клиент Mini App на **React / Vite (TypeScript)** с bento-главной (разборы, подкасты, техники, стримы и др.), вкладками **Чаты** и **Профиль**, поиском по материалам и **REST API** на **Node.js (Express)** с проверкой Telegram `initData`, **JWT** и контролем доступа по подписке на канал; **Telegram-бот** с Web App-кнопкой и webhook, встроенную и отдельную **админ-панель** (CRUD разделов, чатов, баннеров, загрузка медиа), **PostgreSQL**, **nginx**, деплой через **PM2**, health-check и бэкапы БД.
+<br />
 
-**Стек:** TypeScript, React, Vite, React Router, Node.js (Express), PostgreSQL, JWT, Zod, Telegraf, Telegram Mini Apps, nginx, PM2.  
-**Результат:** рабочий прод — навигационное Telegram-приложение с закрытым доступом, управляемым контентом и модераторской админкой.
+## ◆ Как я работаю
 
-https://t.me/verdikt_menu_bot
+- **Production-first.** Проект считается готовым, когда он задеплоен, мониторится и бэкапится, а не когда «работает у меня».
+- **Безопасность по умолчанию.** Подпись Telegram `initData` проверяется на сервере, входные данные валидируются схемами (Zod), всё критичное (очки, доступы, платежи) считается на backend.
+- **Платежи без сюрпризов.** Вебхуки с проверкой подписи и идемпотентной обработкой, понятные статусы, уведомления админам.
+- **Владею всем циклом.** Архитектура → UI → API → БД → сервер → поддержка. Заказчику не нужно собирать команду под MVP.
 
----
+<br />
 
-### Attract Platform
-Коммерческая Telegram SaaS-платформа для монетизации каналов через платные подписки.
-
-Реализовал backend, архитектуру, Telegram-ботов и инфраструктуру запуска: SaaS-бот для администраторов, Gatekeeper-боты для подписчиков, платёжные сценарии, управление тарифами, выдачу доступа в каналы, автокик, уведомления, биллинг и деплой в Docker.
-
-**Стек:** Node.js, Express, PostgreSQL, Telegram Bot API, Docker, nginx, Cloudflare Tunnel, платёжная интеграция.  
-**Результат:** production-ready первая версия с большим ТЗ, несколькими сценариями оплаты и сложной бизнес-логикой.
-
-https://t.me/attractsub_bot
-
----
-
-### Brain Train
-Telegram Mini App для регулярных тренировок памяти, внимания и логики: набор игр и режимов (в т.ч. таймерные викторины и аркадные мини‑игры), рейтинги, сезоны и монетизация (Telegram Stars, интеграция с платёжным провайдером).  
-
-Реализовал монорепозиторий под прод: клиент Mini App на **React / Vite (TypeScript)**, **REST API** на **Node.js (Express)** с проверкой очков на сервере, **Telegram‑бот**, лендинг, **PostgreSQL**, JWT и миграции, платёжные вебхуки, **nginx** и деплой (**PM2**, скрипты выкладки).  
-
-**Стек:** TypeScript, React, Vite, Node.js (Express), PostgreSQL, Telegram Bot API и Mini Apps, nginx, Docker, при необходимости Cloudflare Tunnel.  
-**Результат:** рабочий прод на поддомене Mini App (`brain.legenda-store.ru`) и бот для входа в приложение из Telegram.
-
-https://t.me/braintrainru_bot  
-
----
-
-### Safronic Bot
-Система для бизнеса по сборке мебели: сайт с личным кабинетом и два Telegram-бота.
-
-Реализовал клиентский бот @safroninc_bot — сценарии заказа мебели, сборки (юрлицо / дизайнер / производитель), замера и просчёта; пошаговый диалог, загрузка файлов, проверка ИНН, уведомления в рабочий чат; админка в боте (заявки, статусы, ответ клиенту). Отдельный бот-калькулятор @safronic_calc_bot — расчёт по XLSX-прайсам с fuzzy-поиском. Backend и ЛК на Express + PostgreSQL + React: заявки из бота отображаются на сайте, статистика, файлы. Деплой: Docker, nginx, PM2.
-**Функционал:** сценарии, загрузка файлов, проверка ИНН, уведомления админов.  
-**Стек:** Node.js, Express, PostgreSQL, React, Vite, Telegram Bot API, Fuse.js, xlsx, Docker, nginx, PM2.
-
-https://t.me/safroninc_bot
-
-https://t.me/safronic_calc_bot
-
-https://safronic.ru
-
----
-
-### Legend Defense Bot
-Антиспам-бот для Telegram-групп и каналов.  
-**Функционал:** фильтрация, защита от обходов, анти-мат.  
-**Стек:** Node.js, Telegram Bot API, JSON, алгоритмы нормализации
-
-https://t.me/Legend_defense_bot
-
----
-
-### @all Bot
-Массовое упоминание администраторов чата по команде.  
-**Стек:** Node.js, Telegram Bot API
-
-https://t.me/Legend_all_bot
-
----
-
-### CRM / CMS / сайты
-Разработка внутренних систем управления и корпоративных сайтов.  
-**Стек:** React, Node.js, PostgreSQL, HTML, CSS.
-
----
-
-## Сообщество
-
-Веду канал с проектами и разборами:
-
-https://t.me/legasu
-
----
-
-## GitHub Stats
-
-- ~2.5 года активной разработки
-- Регулярные релизы: боты, Mini Apps, web-системы
-- Production-проекты с платежами и инфраструктурой
-- Собственный деплой: Linux, Docker, nginx
-
----
-
-## Контакты
-
-- Telegram: https://t.me/Legenda_CR  
-- GitHub: https://github.com/LegendaCR  
-- GitVerse: https://gitverse.ru/LegendaCR  
-
----
+## ◆ Активность
 
 <p align="center">
-  <em>«Изучаю, создаю, автоматизирую. Делюсь опытом!»</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendaCR&bg_color=05060a&color=c9d3ea&line=93c5fd&point=a5b4fc&area=true&area_color=3b5bdb&hide_border=true&radius=16" width="100%" alt="GitHub activity graph" />
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://t.me/Legenda_CR"><b>Обсудить задачу →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://legenda-store.ru">Портфолио и цены</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/legasu">Канал с разборами</a>
+</p>
+
+<p align="center">
+  <sub><i>Изучаю, создаю, автоматизирую. Делюсь опытом.</i></sub>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=LegendaCR&style=flat-square&color=0b0d12&label=profile+views" alt="Profile views" />
 </p>
