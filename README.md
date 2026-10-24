@@ -165,14 +165,6 @@ Fullstack-разработчик из Санкт-Петербурга (**СПб�
 
 <br />
 
-## ◆ Активность
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendaCR&bg_color=05060a&color=c9d3ea&line=93c5fd&point=a5b4fc&area=true&area_color=3b5bdb&hide_border=true&radius=16" width="100%" alt="GitHub activity graph" />
-</p>
-
-<br />
-
 <p align="center">
   <a href="https://t.me/Legenda_CR"><b>Обсудить задачу →</b></a>
   &nbsp;·&nbsp;
