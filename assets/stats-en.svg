@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="07 production projects · ~2.5 years of commercial development · Full-cycle · SPbPU">
+  <defs>
+    <style>
+      .f { font-family: Manrope, Inter, 'Segoe UI', 'SF Pro Display', -apple-system, Helvetica, Arial, sans-serif; }
+      .n { font-size: 46px; font-weight: 700; letter-spacing: -1.5px; fill: #f5f6f8; }
+      .l { font-size: 15px; font-weight: 500; fill: #8b93a7; }
+      .c { animation: in .8s cubic-bezier(.2,.7,.2,1) both; }
+      .c2 { animation-delay: .12s } .c3 { animation-delay: .24s } .c4 { animation-delay: .36s }
+      @keyframes in { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    </style>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a5b4fc"/><stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="149" rx="22" fill="#07080c" stroke="#ffffff" stroke-opacity=".09"/>
+  <g stroke="#ffffff" stroke-opacity=".08">
+    <path d="M300 24V126M600 24V126M900 24V126"/>
+  </g>
+  <g class="f">
+    <g class="c"><text x="36" y="80" class="n">07</text><text x="38" y="112" class="l">production projects</text></g>
+    <g class="c c2"><text x="336" y="80" class="n">~2.5</text><text x="338" y="112" class="l">years of commercial development</text></g>
+    <g class="c c3"><text x="636" y="80" class="n">Full-cycle</text><text x="638" y="112" class="l">from architecture to deploy</text></g>
+    <g class="c c4"><text x="936" y="80" class="n" fill="url(#accent)" style="fill:url(#accent)">SPbPU</text><text x="938" y="112" class="l">software engineering</text></g>
+  </g>
+</svg>
