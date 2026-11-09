@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="332px" font-size="16px">
+<style>
+.k {fill: #ffa657;}
+.v {fill: #a5d6ff;}
+.m {fill: #616e7f;}
+text, tspan {white-space: pre; font-variant-ligatures: none;}
+</style>
+<rect width="985px" height="332px" fill="#161b22" rx="15"/>
+<text x="20" y="30" fill="#c9d1d9" xml:space="preserve">
+<tspan x="20" y="30"><tspan class="k">ilya@legenda</tspan>:<tspan class="v">~</tspan>$ ls ~/projects --featured</tspan>
+<tspan x="20" y="70"><tspan class="m">- </tspan>Verdikt Base <tspan class="m">———————————————————————————————</tspan></tspan>
+<tspan x="20" y="90"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> .................... </tspan><tspan class="v">Telegram Mini App</tspan></tspan>
+<tspan x="20" y="110"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ... </tspan><tspan class="v">TS · React · Express · PostgreSQL</tspan></tspan>
+<tspan x="20" y="130"><tspan class="m">. </tspan><tspan class="k">Access</tspan>:<tspan class="m"> ...... </tspan><tspan class="v">initData → JWT, channel-gated</tspan></tspan>
+<tspan x="20" y="150"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> .................... </tspan><tspan class="v">@verdikt_menu_bot</tspan></tspan>
+<tspan x="510" y="70"><tspan class="m">- </tspan>Attract Platform <tspan class="m">———————————————————————————</tspan></tspan>
+<tspan x="510" y="90"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> ......... </tspan><tspan class="v">Telegram SaaS, paid channels</tspan></tspan>
+<tspan x="510" y="110"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ...... </tspan><tspan class="v">Node.js · Express · PostgreSQL</tspan></tspan>
+<tspan x="510" y="130"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ............ </tspan><tspan class="v">billing, plans, auto-kick</tspan></tspan>
+<tspan x="510" y="150"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ...................... </tspan><tspan class="v">@attractsub_bot</tspan></tspan>
+<tspan x="20" y="190"><tspan class="m">- </tspan>Brain Train <tspan class="m">————————————————————————————————</tspan></tspan>
+<tspan x="20" y="210"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> ............. </tspan><tspan class="v">Telegram Mini App, games</tspan></tspan>
+<tspan x="20" y="230"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ......... </tspan><tspan class="v">TS · React · Vite · Express</tspan></tspan>
+<tspan x="20" y="250"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ........... </tspan><tspan class="v">Stars payments, anti-cheat</tspan></tspan>
+<tspan x="20" y="270"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> .................... </tspan><tspan class="v">@braintrainru_bot</tspan></tspan>
+<tspan x="510" y="190"><tspan class="m">- </tspan>Safronic <tspan class="m">———————————————————————————————————</tspan></tspan>
+<tspan x="510" y="210"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> ............ </tspan><tspan class="v">Website + 2 Telegram bots</tspan></tspan>
+<tspan x="510" y="230"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ........ </tspan><tspan class="v">React · Express · PostgreSQL</tspan></tspan>
+<tspan x="510" y="250"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ........ </tspan><tspan class="v">client dashboard, XLSX quotes</tspan></tspan>
+<tspan x="510" y="270"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> .......................... </tspan><tspan class="v">safronic.ru</tspan></tspan>
+<tspan x="20" y="310"><tspan class="m">. </tspan><tspan class="k">More</tspan>:<tspan class="m"> ................................ </tspan><tspan class="v">Legend Defense Bot, @all Bot, FunPay automation, CRM/CMS</tspan></tspan>
+</text>
+</svg>

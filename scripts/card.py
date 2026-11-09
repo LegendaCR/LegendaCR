@@ -53,6 +53,27 @@ INFO = [
     ("stats_loc",),
 ]
 
+PROJECTS = [
+    ("Verdikt Base", [("Type", "Telegram Mini App"),
+                      ("Stack", "TS · React · Express · PostgreSQL"),
+                      ("Access", "initData → JWT, channel-gated"),
+                      ("Link", "@verdikt_menu_bot")]),
+    ("Attract Platform", [("Type", "Telegram SaaS, paid channels"),
+                          ("Stack", "Node.js · Express · PostgreSQL"),
+                          ("Core", "billing, plans, auto-kick"),
+                          ("Link", "@attractsub_bot")]),
+    ("Brain Train", [("Type", "Telegram Mini App, games"),
+                     ("Stack", "TS · React · Vite · Express"),
+                     ("Core", "Stars payments, anti-cheat"),
+                     ("Link", "@braintrainru_bot")]),
+    ("Safronic", [("Type", "Website + 2 Telegram bots"),
+                  ("Stack", "React · Express · PostgreSQL"),
+                  ("Core", "client dashboard, XLSX quotes"),
+                  ("Link", "safronic.ru")]),
+]
+MORE = "Legend Defense Bot, @all Bot, FunPay automation, CRM/CMS"
+COL_W = 46  # characters per project column
+
 THEMES = {
     "dark": dict(bg="#161b22", border="#30363d", text="#c9d1d9", art="#f0f6fc", key="#ffa657",
                  value="#a5d6ff", muted="#616e7f", add="#3fb950", sub="#f85149"),
@@ -227,6 +248,43 @@ text, tspan {{white-space: pre; font-variant-ligatures: none;}}
 '''
 
 
+def section(title, width):
+    return span("m", "- ") + title + " " + span("m", "—" * (width - len(title) - 3))
+
+
+def render_projects(theme):
+    """Second card: featured projects in two columns, like `ls` output in the terminal."""
+    c = THEMES[theme]
+    lh, top, xs = 20, 30, (20, 510)
+    lines = []  # (x, y_index, markup)
+    lines.append((xs[0], 0, span("k", "ilya@legenda") + ":" + span("v", "~") + "$ ls ~/projects --featured"))
+    row = 2
+    for i in range(0, len(PROJECTS), 2):
+        height = 0
+        for col, (title, fields) in enumerate(PROJECTS[i:i + 2]):
+            block = [section(title, COL_W)] + [kv_line(k, v, COL_W) for k, v in fields]
+            lines += [(xs[col], row + j, l) for j, l in enumerate(block)]
+            height = max(height, len(block))
+        row += height + 1
+    lines.append((xs[0], row, kv_line("More", MORE, (xs[1] - xs[0]) * 10 // 96 + COL_W)))  # spans both columns
+    height = top + row * lh + 22
+    body = "\n".join(f'<tspan x="{x}" y="{top + r * lh}">{l}</tspan>' for x, r, l in lines)
+    return f'''<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="{height}px" font-size="16px">
+<style>
+.k {{fill: {c["key"]};}}
+.v {{fill: {c["value"]};}}
+.m {{fill: {c["muted"]};}}
+text, tspan {{white-space: pre; font-variant-ligatures: none;}}
+</style>
+<rect width="985px" height="{height}px" fill="{c["bg"]}" rx="15"/>
+<text x="20" y="30" fill="{c["text"]}" xml:space="preserve">
+{body}
+</text>
+</svg>
+'''
+
+
 def main():
     token = os.environ.get("GH_TOKEN", "").strip()
     today = dt.date.today()
@@ -239,6 +297,7 @@ def main():
     print(json.dumps(stats))
     for theme in THEMES:
         (ROOT / f"{theme}_mode.svg").write_text(render(theme, stats, today))
+        (ROOT / f"projects_{theme}.svg").write_text(render_projects(theme))
 
 
 if __name__ == "__main__":
