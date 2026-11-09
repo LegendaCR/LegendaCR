@@ -20,6 +20,7 @@ jobs:
         env:
           # CARD_TOKEN (optional PAT) also counts private repos; falls back to public data
           GH_TOKEN: ${{ secrets.CARD_TOKEN || secrets.GITHUB_TOKEN }}
+          TZ: Europe/Moscow   # uptime counts days in local time
         run: python3 scripts/card.py
       - name: Commit if changed
         run: |
