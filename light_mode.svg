@@ -53,7 +53,7 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <text x="410" y="30" fill="#24292f" xml:space="preserve">
 <tspan x="410" y="30">ilya@legenda <tspan class="m">————————————————————————————————————————————</tspan></tspan>
 <tspan x="410" y="50"><tspan class="m">. </tspan><tspan class="k">OS</tspan>:<tspan class="m"> ......................... </tspan><tspan class="v">Arch Linux, Ubuntu Server</tspan></tspan>
-<tspan x="410" y="70"><tspan class="m">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="m"> ..................... </tspan><tspan class="v">2 years, 7 months, 9 days</tspan></tspan>
+<tspan x="410" y="70"><tspan class="m">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="m"> ..................... </tspan><tspan class="v">2 years, 7 months, 8 days</tspan></tspan>
 <tspan x="410" y="90"><tspan class="m">. </tspan><tspan class="k">Host</tspan>:<tspan class="m"> .................... </tspan><tspan class="v">SPbPU · Software Engineering</tspan></tspan>
 <tspan x="410" y="110"><tspan class="m">. </tspan><tspan class="k">Kernel</tspan>:<tspan class="m"> ........................... </tspan><tspan class="v">Fullstack Developer</tspan></tspan>
 <tspan x="410" y="130"><tspan class="m">. </tspan><tspan class="k">IDE</tspan>:<tspan class="m"> ............................. </tspan><tspan class="v">VS Code, Cursor, Vim</tspan></tspan>
@@ -73,7 +73,7 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <tspan x="410" y="410"><tspan class="m">. </tspan><tspan class="k">GitVerse</tspan>:<tspan class="m"> ................................... </tspan><tspan class="v">LegendaCR</tspan></tspan>
 <tspan x="410" y="430"><tspan class="m">- </tspan>GitHub Stats <tspan class="m">——————————————————————————————————————————</tspan></tspan>
 <tspan x="410" y="450"><tspan class="m">. </tspan><tspan class="k">Repos</tspan>:<tspan class="m"> .... </tspan><tspan class="v">6</tspan> {<tspan class="k">Contributed</tspan>: <tspan class="v">6</tspan>}<tspan class="m"> | </tspan><tspan class="k">Stars</tspan>:<tspan class="m"> .............. </tspan><tspan class="v">5</tspan></tspan>
-<tspan x="410" y="470"><tspan class="m">. </tspan><tspan class="k">Commits</tspan>:<tspan class="m"> ................. </tspan><tspan class="v">322</tspan><tspan class="m"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">2</tspan></tspan>
-<tspan x="410" y="490"><tspan class="m">. </tspan><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="m"> . </tspan><tspan class="v">34,668</tspan> ( <tspan class="add">64,160++</tspan>, <tspan class="sub">29,492--</tspan> )</tspan>
+<tspan x="410" y="470"><tspan class="m">. </tspan><tspan class="k">Commits</tspan>:<tspan class="m"> ................. </tspan><tspan class="v">323</tspan><tspan class="m"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">2</tspan></tspan>
+<tspan x="410" y="490"><tspan class="m">. </tspan><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="m"> . </tspan><tspan class="v">35,144</tspan> ( <tspan class="add">64,818++</tspan>, <tspan class="sub">29,674--</tspan> )</tspan>
 </text>
 </svg>
