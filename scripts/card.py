@@ -42,6 +42,7 @@ INFO = [
     ("kv", "Stack.Backend", "Node.js, Express, PostgreSQL"),
     ("kv", "Stack.Telegram", "Bot API, Mini Apps, Stars"),
     ("kv", "Stack.DevOps", "Docker, nginx, PM2, Cloudflare"),
+    ("kv", "Stack.AI", "Claude API, AI content autopilot"),
     ("section", "Contact"),
     ("kv", "Website", "legenda-store.ru"),
     ("kv", "Telegram", "@Legenda_CR"),
@@ -70,8 +71,16 @@ PROJECTS = [
                   ("Stack", "React · Express · PostgreSQL"),
                   ("Core", "client dashboard, XLSX quotes"),
                   ("Link", "safronic.ru")]),
+    ("AI News", [("Type", "AI-run Telegram news channel"),
+                 ("Stack", "Claude API (Sonnet 5.5) · Bot API"),
+                 ("Core", "finds news, writes, auto-posts"),
+                 ("Link", "@AI_News_c")]),
+    ("Legend Defense Bot", [("Type", "Anti-spam for groups"),
+                            ("Stack", "Node.js · Telegram Bot API"),
+                            ("Core", "filters, bypass-proof matching"),
+                            ("Link", "@Legend_defense_bot")]),
 ]
-MORE = "Legend Defense Bot, @all Bot, FunPay automation, CRM/CMS"
+MORE = "@all Bot, FunPay automation, CRM / CMS systems, websites"
 COL_W = 46  # characters per project column
 
 THEMES = {

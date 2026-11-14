@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="332px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="452px" font-size="16px">
 <style>
 .k {fill: #953800;}
 .v {fill: #0a3069;}
 .m {fill: #8c959f;}
 text, tspan {white-space: pre; font-variant-ligatures: none;}
 </style>
-<rect width="985px" height="332px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="452px" fill="#f6f8fa" rx="15"/>
 <text x="20" y="30" fill="#24292f" xml:space="preserve">
 <tspan x="20" y="30"><tspan class="k">ilya@legenda</tspan>:<tspan class="v">~</tspan>$ ls ~/projects --featured</tspan>
 <tspan x="20" y="70"><tspan class="m">- </tspan>Verdikt Base <tspan class="m">———————————————————————————————</tspan></tspan>
@@ -29,6 +29,16 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <tspan x="510" y="230"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ........ </tspan><tspan class="v">React · Express · PostgreSQL</tspan></tspan>
 <tspan x="510" y="250"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ........ </tspan><tspan class="v">client dashboard, XLSX quotes</tspan></tspan>
 <tspan x="510" y="270"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> .......................... </tspan><tspan class="v">safronic.ru</tspan></tspan>
-<tspan x="20" y="310"><tspan class="m">. </tspan><tspan class="k">More</tspan>:<tspan class="m"> ................................ </tspan><tspan class="v">Legend Defense Bot, @all Bot, FunPay automation, CRM/CMS</tspan></tspan>
+<tspan x="20" y="310"><tspan class="m">- </tspan>AI News <tspan class="m">————————————————————————————————————</tspan></tspan>
+<tspan x="20" y="330"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> ......... </tspan><tspan class="v">AI-run Telegram news channel</tspan></tspan>
+<tspan x="20" y="350"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> ... </tspan><tspan class="v">Claude API (Sonnet 5.5) · Bot API</tspan></tspan>
+<tspan x="20" y="370"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ....... </tspan><tspan class="v">finds news, writes, auto-posts</tspan></tspan>
+<tspan x="20" y="390"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ........................... </tspan><tspan class="v">@AI_News_c</tspan></tspan>
+<tspan x="510" y="310"><tspan class="m">- </tspan>Legend Defense Bot <tspan class="m">—————————————————————————</tspan></tspan>
+<tspan x="510" y="330"><tspan class="m">. </tspan><tspan class="k">Type</tspan>:<tspan class="m"> ................. </tspan><tspan class="v">Anti-spam for groups</tspan></tspan>
+<tspan x="510" y="350"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">Node.js · Telegram Bot API</tspan></tspan>
+<tspan x="510" y="370"><tspan class="m">. </tspan><tspan class="k">Core</tspan>:<tspan class="m"> ....... </tspan><tspan class="v">filters, bypass-proof matching</tspan></tspan>
+<tspan x="510" y="390"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> .................. </tspan><tspan class="v">@Legend_defense_bot</tspan></tspan>
+<tspan x="20" y="430"><tspan class="m">. </tspan><tspan class="k">More</tspan>:<tspan class="m"> ................................ </tspan><tspan class="v">@all Bot, FunPay automation, CRM / CMS systems, websites</tspan></tspan>
 </text>
 </svg>

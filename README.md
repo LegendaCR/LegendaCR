@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./projects_dark.svg">
-  <img alt="Featured projects: Verdikt Base, Attract Platform, Brain Train, Safronic" src="./projects_light.svg">
+  <img alt="Featured projects: Verdikt Base, Attract Platform, Brain Train, Safronic, AI News, Legend Defense Bot" src="./projects_light.svg">
 </picture>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <a href="https://t.me/attractsub_bot">Attract Platform</a> ·
   <a href="https://t.me/braintrainru_bot">Brain Train</a> ·
   <a href="https://safronic.ru">Safronic</a> ·
+  <a href="https://t.me/AI_News_c">AI News</a> ·
   <a href="https://t.me/Legend_defense_bot">Legend Defense Bot</a> ·
   <a href="https://t.me/Legend_all_bot">@all Bot</a>
 </p>

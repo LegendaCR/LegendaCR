@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="513.4000000000001px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="532px" font-size="16px">
 <style>
 .k {fill: #ffa657;}
 .v {fill: #a5d6ff;}
@@ -8,7 +8,7 @@
 .sub {fill: #f85149;}
 text, tspan {white-space: pre; font-variant-ligatures: none;}
 </style>
-<rect width="985px" height="513.4000000000001px" fill="#161b22" rx="15"/>
+<rect width="985px" height="532px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#f0f6fc" class="ascii" font-size="10px" xml:space="preserve">
 <tspan x="15" y="24.0"></tspan>
 <tspan x="15" y="36.3"></tspan>
@@ -66,14 +66,15 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <tspan x="410" y="270"><tspan class="m">. </tspan><tspan class="k">Stack.Backend</tspan>:<tspan class="m"> ........... </tspan><tspan class="v">Node.js, Express, PostgreSQL</tspan></tspan>
 <tspan x="410" y="290"><tspan class="m">. </tspan><tspan class="k">Stack.Telegram</tspan>:<tspan class="m"> ............. </tspan><tspan class="v">Bot API, Mini Apps, Stars</tspan></tspan>
 <tspan x="410" y="310"><tspan class="m">. </tspan><tspan class="k">Stack.DevOps</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">Docker, nginx, PM2, Cloudflare</tspan></tspan>
-<tspan x="410" y="330"><tspan class="m">- </tspan>Contact <tspan class="m">———————————————————————————————————————————————</tspan></tspan>
-<tspan x="410" y="350"><tspan class="m">. </tspan><tspan class="k">Website</tspan>:<tspan class="m"> ............................. </tspan><tspan class="v">legenda-store.ru</tspan></tspan>
-<tspan x="410" y="370"><tspan class="m">. </tspan><tspan class="k">Telegram</tspan>:<tspan class="m"> ................................. </tspan><tspan class="v">@Legenda_CR</tspan></tspan>
-<tspan x="410" y="390"><tspan class="m">. </tspan><tspan class="k">Channel</tspan>:<tspan class="m"> ...................................... </tspan><tspan class="v">@legasu</tspan></tspan>
-<tspan x="410" y="410"><tspan class="m">. </tspan><tspan class="k">GitVerse</tspan>:<tspan class="m"> ................................... </tspan><tspan class="v">LegendaCR</tspan></tspan>
-<tspan x="410" y="430"><tspan class="m">- </tspan>GitHub Stats <tspan class="m">——————————————————————————————————————————</tspan></tspan>
-<tspan x="410" y="450"><tspan class="m">. </tspan><tspan class="k">Repos</tspan>:<tspan class="m"> .... </tspan><tspan class="v">6</tspan> {<tspan class="k">Contributed</tspan>: <tspan class="v">6</tspan>}<tspan class="m"> | </tspan><tspan class="k">Stars</tspan>:<tspan class="m"> .............. </tspan><tspan class="v">6</tspan></tspan>
-<tspan x="410" y="470"><tspan class="m">. </tspan><tspan class="k">Commits</tspan>:<tspan class="m"> ................. </tspan><tspan class="v">325</tspan><tspan class="m"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">2</tspan></tspan>
-<tspan x="410" y="490"><tspan class="m">. </tspan><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="m"> . </tspan><tspan class="v">35,286</tspan> ( <tspan class="add">64,961++</tspan>, <tspan class="sub">29,675--</tspan> )</tspan>
+<tspan x="410" y="330"><tspan class="m">. </tspan><tspan class="k">Stack.AI</tspan>:<tspan class="m"> ............ </tspan><tspan class="v">Claude API, AI content autopilot</tspan></tspan>
+<tspan x="410" y="350"><tspan class="m">- </tspan>Contact <tspan class="m">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="410" y="370"><tspan class="m">. </tspan><tspan class="k">Website</tspan>:<tspan class="m"> ............................. </tspan><tspan class="v">legenda-store.ru</tspan></tspan>
+<tspan x="410" y="390"><tspan class="m">. </tspan><tspan class="k">Telegram</tspan>:<tspan class="m"> ................................. </tspan><tspan class="v">@Legenda_CR</tspan></tspan>
+<tspan x="410" y="410"><tspan class="m">. </tspan><tspan class="k">Channel</tspan>:<tspan class="m"> ...................................... </tspan><tspan class="v">@legasu</tspan></tspan>
+<tspan x="410" y="430"><tspan class="m">. </tspan><tspan class="k">GitVerse</tspan>:<tspan class="m"> ................................... </tspan><tspan class="v">LegendaCR</tspan></tspan>
+<tspan x="410" y="450"><tspan class="m">- </tspan>GitHub Stats <tspan class="m">——————————————————————————————————————————</tspan></tspan>
+<tspan x="410" y="470"><tspan class="m">. </tspan><tspan class="k">Repos</tspan>:<tspan class="m"> .... </tspan><tspan class="v">6</tspan> {<tspan class="k">Contributed</tspan>: <tspan class="v">6</tspan>}<tspan class="m"> | </tspan><tspan class="k">Stars</tspan>:<tspan class="m"> .............. </tspan><tspan class="v">6</tspan></tspan>
+<tspan x="410" y="490"><tspan class="m">. </tspan><tspan class="k">Commits</tspan>:<tspan class="m"> ................. </tspan><tspan class="v">325</tspan><tspan class="m"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="m"> .......... </tspan><tspan class="v">2</tspan></tspan>
+<tspan x="410" y="510"><tspan class="m">. </tspan><tspan class="k">Lines of Code on GitHub</tspan>:<tspan class="m"> . </tspan><tspan class="v">35,286</tspan> ( <tspan class="add">64,961++</tspan>, <tspan class="sub">29,675--</tspan> )</tspan>
 </text>
 </svg>
