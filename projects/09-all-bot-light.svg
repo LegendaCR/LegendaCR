@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="200px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="320px" font-size="16px">
 <title>@all Bot — Utility bot</title>
 <style>
 .k {fill: #953800;}
@@ -12,17 +12,23 @@
 text, tspan {white-space: pre; font-variant-ligatures: none;}
 </style>
 <defs><clipPath id="lg"><rect x="24" y="24" width="88" height="88" rx="20"/></clipPath></defs>
-<rect width="985px" height="200px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="320px" fill="#f6f8fa" rx="15"/>
 <image x="24" y="24" width="88" height="88" clip-path="url(#lg)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAABy1BMVEUAAAACAgIBAQEDAwMEBAQqKipZWVlaWlpPT08rKysJCQkGBganp6f////+/v78/Pzj4+PFxcV9fX0sLCy3t7f6+vr9/f3l5eWEhIQSEhK1tbX7+/vDw8MxMTG2trb29vbb29s1NTX7+vv8+/z4+PjU1NQkJCSQkJDk5OT5+fn49/isrKwFBQXa2toXFxcyMjLOzs7d3d0hISHX1tf5+Pm8vLz9/v0eHh5VVVX39/c6Ojrc3Nyzs7N8fHzc29xwcHD6+fqlpaVBQUG8u7wHBwfz8/PKysr19fU0NDTLy8sTExPMzMwzMzM2NjbJyckRERE+Pj7Hx8dGR0bNzc2bm5vT09MfHx9bW1tTU1OZmZmUlJSWlpaVlZWTk5OampqPj4+Xl5cMDAzBwcGxsbFcXFwVFBVYWFglJSVOTk66urr8/fxSUlK0tLQdHR1lZWWMjIzv7+9iYmKioqIiIiIWFhbi4uLk4+Th4eGFhYVXV1cgICAgISDCwsLf39+Li4uKioqgoKAwMDDq6uqGhoaDg4NfX19zc3N0dHT39ve7ursODg5tbW3t7e2vr6/x8fFAQECIiIjo6Ojy8vLw8PDExMRFRUUoKCgmJiYQEBBocyX+AAADLElEQVR42u2a6VPTQBiH392sXPHNeiVQIxYEkWo8wKMoHlULKIqiKN4HiKh4g0cVFQ+8UPHA68910+qMHWdsMskkM/o+Hzr90G6e/t7dzTa7AARBEARBEARRAsZ5/AJcU7C4RDhnP98JjReIWIDBrLLy8orKKgAVQ/QCjOuz0UA5Z+68+fmKRC4A+gI0LQMRq2sSIOIQWIgSDUvaiItqXYPIBRajpX6/bckk1tWDFnUndEvgCiAuaWjEpU3AgjfqX8DA6mXNmJLLcYUD0RahIGDhylWr12Bjg2mXgROLQEsrVK7F1DpcX8UjLUJBYAPWpQHaNtrSSm6KdiT8SqA9DUJsRpnCLfEIbE2DA9tQZnC7GokxCKgSCNiRRBt3ZiHKW+NvJXCgtkMJdCbiE6jvillgFwkk1Y1xdzcJkAAJkAAJkAAJkAAJkAAJkAAJkAAJ/O8CexIQ5aPSPwU6/2eBvXEL9LgC+/bHJSCg131SeiAR6Z5FUQIHU4aJfd0+BILvshUJVEgjg4e4xjTPiKB7TEUCZVYGD/erN75aCFawIoEj0kweBR16jx0/cfLkCQ+cOn2mP1ifLRIob8Czqi8ODKJ3zlUFqwHP7xv+FBjCvvMqgGHbNG1ZGkumsP2CMg4pAR2GUhchy7KX0B4ZGbFKIW0Tuy6DCJqAcyW/bXdVCVy7DkKHNsNz/jdughNQQBmMojSweUxFOesW6Dw7euN2tQea79y90quuH3QcapBD2zDwHjjMPULA9HRT630vjI9nQbCgh0C4gHJDGhIfDHDVmkLz8WUfn/1LG/cfqk4g8REAE4JpTml0Xb0I9+RJCAIqggncqDIwHj/xNwVqPIylmysw1oIpW2bw6aVTNbma3LNcKWomJycnbjrhnLbgTMBzU5pGg+1j/lO8gBB6QD4ClcFLCzOqCmpy88grfD0V3rqFOfzNW0RTXd7wxjqs7vF50/wrmgab3nX4yX96WE0b4a3cuBr8zvsPgx8/zUx7YebzFzUFhbly5PlV2NTY1wue+PY97D9Pqicy4fiYVrSQDzwVTrExJjwtA0Xh3FuoERAEQRAEQRAEQRD/LD8ARWEeUOpJfgsAAAAASUVORK5CYII=" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAABy1BMVEUAAAACAgIBAQEDAwMEBAQqKipZWVlaWlpPT08rKysJCQkGBganp6f////+/v78/Pzj4+PFxcV9fX0sLCy3t7f6+vr9/f3l5eWEhIQSEhK1tbX7+/vDw8MxMTG2trb29vbb29s1NTX7+vv8+/z4+PjU1NQkJCSQkJDk5OT5+fn49/isrKwFBQXa2toXFxcyMjLOzs7d3d0hISHX1tf5+Pm8vLz9/v0eHh5VVVX39/c6Ojrc3Nyzs7N8fHzc29xwcHD6+fqlpaVBQUG8u7wHBwfz8/PKysr19fU0NDTLy8sTExPMzMwzMzM2NjbJyckRERE+Pj7Hx8dGR0bNzc2bm5vT09MfHx9bW1tTU1OZmZmUlJSWlpaVlZWTk5OampqPj4+Xl5cMDAzBwcGxsbFcXFwVFBVYWFglJSVOTk66urr8/fxSUlK0tLQdHR1lZWWMjIzv7+9iYmKioqIiIiIWFhbi4uLk4+Th4eGFhYVXV1cgICAgISDCwsLf39+Li4uKioqgoKAwMDDq6uqGhoaDg4NfX19zc3N0dHT39ve7ursODg5tbW3t7e2vr6/x8fFAQECIiIjo6Ojy8vLw8PDExMRFRUUoKCgmJiYQEBBocyX+AAADLElEQVR42u2a6VPTQBiH392sXPHNeiVQIxYEkWo8wKMoHlULKIqiKN4HiKh4g0cVFQ+8UPHA68910+qMHWdsMskkM/o+Hzr90G6e/t7dzTa7AARBEARBEARRAsZ5/AJcU7C4RDhnP98JjReIWIDBrLLy8orKKgAVQ/QCjOuz0UA5Z+68+fmKRC4A+gI0LQMRq2sSIOIQWIgSDUvaiItqXYPIBRajpX6/bckk1tWDFnUndEvgCiAuaWjEpU3AgjfqX8DA6mXNmJLLcYUD0RahIGDhylWr12Bjg2mXgROLQEsrVK7F1DpcX8UjLUJBYAPWpQHaNtrSSm6KdiT8SqA9DUJsRpnCLfEIbE2DA9tQZnC7GokxCKgSCNiRRBt3ZiHKW+NvJXCgtkMJdCbiE6jvillgFwkk1Y1xdzcJkAAJkAAJkAAJkAAJkAAJkAAJkAAJ/O8CexIQ5aPSPwU6/2eBvXEL9LgC+/bHJSCg131SeiAR6Z5FUQIHU4aJfd0+BILvshUJVEgjg4e4xjTPiKB7TEUCZVYGD/erN75aCFawIoEj0kweBR16jx0/cfLkCQ+cOn2mP1ifLRIob8Czqi8ODKJ3zlUFqwHP7xv+FBjCvvMqgGHbNG1ZGkumsP2CMg4pAR2GUhchy7KX0B4ZGbFKIW0Tuy6DCJqAcyW/bXdVCVy7DkKHNsNz/jdughNQQBmMojSweUxFOesW6Dw7euN2tQea79y90quuH3QcapBD2zDwHjjMPULA9HRT630vjI9nQbCgh0C4gHJDGhIfDHDVmkLz8WUfn/1LG/cfqk4g8REAE4JpTml0Xb0I9+RJCAIqggncqDIwHj/xNwVqPIylmysw1oIpW2bw6aVTNbma3LNcKWomJycnbjrhnLbgTMBzU5pGg+1j/lO8gBB6QD4ClcFLCzOqCmpy88grfD0V3rqFOfzNW0RTXd7wxjqs7vF50/wrmgab3nX4yX96WE0b4a3cuBr8zvsPgx8/zUx7YebzFzUFhbly5PlV2NTY1wue+PY97D9Pqicy4fiYVrSQDzwVTrExJjwtA0Xh3FuoERAEQRAEQRAEQRD/LD8ARWEeUOpJfgsAAAAASUVORK5CYII="/>
 <rect x="24.5" y="24.5" width="87" height="87" rx="19.5" fill="none" stroke="#d0d7de"/>
 <text x="132" y="34" fill="#24292f" xml:space="preserve">
 <tspan x="132" y="34"><tspan class="m">- </tspan><tspan class="t">09  @all Bot</tspan> <tspan class="m">———————————————————————————————————————————————————————</tspan> <tspan class="k">Utility bot</tspan></tspan>
-<tspan x="132" y="54"><tspan class="m">. </tspan><tspan class="k">About</tspan>:<tspan class="m"> .... </tspan><tspan class="x">A focused tool for mentioning group administrators.</tspan></tspan>
-<tspan x="132" y="74"><tspan class="m">. </tspan><tspan class="k">Task</tspan>:<tspan class="m"> ..... </tspan><tspan class="v">Alert the right participants quickly without spam or command abuse.</tspan></tspan>
-<tspan x="132" y="94"><tspan class="m">. </tspan><tspan class="k">Solution</tspan>:<tspan class="m"> . </tspan><tspan class="v">Permission checks, filtering users without usernames, anti-flood</tspan></tspan>
-<tspan x="132" y="114">              <tspan class="v">controls and clear service responses.</tspan></tspan>
-<tspan x="132" y="134"><tspan class="m">. </tspan><tspan class="k">Result</tspan>:<tspan class="m"> ... </tspan><tspan class="v">A small, dependable utility for operational Telegram groups.</tspan></tspan>
-<tspan x="132" y="154"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> .... </tspan><tspan class="s">Node.js · Telegram Bot API · Permissions · Anti-flood</tspan></tspan>
-<tspan x="132" y="174"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ..... </tspan><tspan class="l">t.me/Legend_all_bot</tspan></tspan>
+<tspan x="132" y="54"></tspan>
+<tspan x="132" y="74"><tspan class="m">. </tspan><tspan class="k">About</tspan>:<tspan class="m"> .... </tspan><tspan class="x">A focused tool for mentioning group administrators.</tspan></tspan>
+<tspan x="132" y="94"></tspan>
+<tspan x="132" y="114"><tspan class="m">. </tspan><tspan class="k">Task</tspan>:<tspan class="m"> ..... </tspan><tspan class="v">Alert the right participants quickly without spam or command abuse.</tspan></tspan>
+<tspan x="132" y="134"></tspan>
+<tspan x="132" y="154"><tspan class="m">. </tspan><tspan class="k">Solution</tspan>:<tspan class="m"> . </tspan><tspan class="v">Permission checks, filtering users without usernames, anti-flood</tspan></tspan>
+<tspan x="132" y="174">              <tspan class="v">controls and clear service responses.</tspan></tspan>
+<tspan x="132" y="194"></tspan>
+<tspan x="132" y="214"><tspan class="m">. </tspan><tspan class="k">Result</tspan>:<tspan class="m"> ... </tspan><tspan class="v">A small, dependable utility for operational Telegram groups.</tspan></tspan>
+<tspan x="132" y="234"></tspan>
+<tspan x="132" y="254"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> .... </tspan><tspan class="s">Node.js · Telegram Bot API · Permissions · Anti-flood</tspan></tspan>
+<tspan x="132" y="274"></tspan>
+<tspan x="132" y="294"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ..... </tspan><tspan class="l">t.me/Legend_all_bot</tspan></tspan>
 </text>
 </svg>

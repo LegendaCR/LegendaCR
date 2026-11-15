@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="280px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="400px" font-size="16px">
 <title>Attract Platform — Telegram SaaS</title>
 <style>
 .k {fill: #953800;}
@@ -12,21 +12,27 @@
 text, tspan {white-space: pre; font-variant-ligatures: none;}
 </style>
 <defs><clipPath id="lg"><rect x="24" y="24" width="88" height="88" rx="20"/></clipPath></defs>
-<rect width="985px" height="280px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="400px" fill="#f6f8fa" rx="15"/>
 <image x="24" y="24" width="88" height="88" clip-path="url(#lg)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAFVBMVEUBAQEAAgABAgABBAACAwAAAgMAAgEVtgm0AAAAXklEQVRo3u3QMQ3AMAxEUVOwzCAMIlMwhVIIfwhpu3e6SO7w335/ODMAwE/5aA54VF1qYImBHN4Y8FtUZ+ApxFQDrgRMGh8J4FuleK8eqKkGUgtkewAAAAAAAAAA8NqMeApYZruE6gAAAABJRU5ErkJggg==" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAFVBMVEUBAQEAAgABAgABBAACAwAAAgMAAgEVtgm0AAAAXklEQVRo3u3QMQ3AMAxEUVOwzCAMIlMwhVIIfwhpu3e6SO7w335/ODMAwE/5aA54VF1qYImBHN4Y8FtUZ+ApxFQDrgRMGh8J4FuleK8eqKkGUgtkewAAAAAAAAAA8NqMeApYZruE6gAAAABJRU5ErkJggg=="/>
 <rect x="24.5" y="24.5" width="87" height="87" rx="19.5" fill="none" stroke="#d0d7de"/>
 <text x="132" y="34" fill="#24292f" xml:space="preserve">
 <tspan x="132" y="34"><tspan class="m">- </tspan><tspan class="t">03  Attract Platform</tspan> <tspan class="m">—————————————————————————————————————————————</tspan> <tspan class="k">Telegram SaaS</tspan></tspan>
-<tspan x="132" y="54"><tspan class="m">. </tspan><tspan class="k">About</tspan>:<tspan class="m"> .... </tspan><tspan class="x">A commercial platform for monetising channels through paid</tspan></tspan>
-<tspan x="132" y="74">              <tspan class="x">subscriptions.</tspan></tspan>
-<tspan x="132" y="94"><tspan class="m">. </tspan><tspan class="k">Task</tspan>:<tspan class="m"> ..... </tspan><tspan class="v">Bring plan management, payments and subscriber access into one product</tspan></tspan>
-<tspan x="132" y="114">              <tspan class="v">for channel administrators.</tspan></tspan>
-<tspan x="132" y="134"><tspan class="m">. </tspan><tspan class="k">Solution</tspan>:<tspan class="m"> . </tspan><tspan class="v">An admin SaaS bot, dedicated gatekeeper bots, billing, access</tspan></tspan>
-<tspan x="132" y="154">              <tspan class="v">provisioning, automatic removal and service notifications.</tspan></tspan>
-<tspan x="132" y="174"><tspan class="m">. </tspan><tspan class="k">Result</tspan>:<tspan class="m"> ... </tspan><tspan class="v">A production stack backed by PostgreSQL, Docker, nginx and Cloudflare</tspan></tspan>
-<tspan x="132" y="194">              <tspan class="v">Tunnel.</tspan></tspan>
-<tspan x="132" y="214"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> .... </tspan><tspan class="s">Node.js · Express · PostgreSQL · Telegram Bot API · Docker · nginx ·</tspan></tspan>
-<tspan x="132" y="234">              <tspan class="s">Cloudflare Tunnel</tspan></tspan>
-<tspan x="132" y="254"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ..... </tspan><tspan class="l">t.me/attractsub_bot</tspan></tspan>
+<tspan x="132" y="54"></tspan>
+<tspan x="132" y="74"><tspan class="m">. </tspan><tspan class="k">About</tspan>:<tspan class="m"> .... </tspan><tspan class="x">A commercial platform for monetising channels through paid</tspan></tspan>
+<tspan x="132" y="94">              <tspan class="x">subscriptions.</tspan></tspan>
+<tspan x="132" y="114"></tspan>
+<tspan x="132" y="134"><tspan class="m">. </tspan><tspan class="k">Task</tspan>:<tspan class="m"> ..... </tspan><tspan class="v">Bring plan management, payments and subscriber access into one product</tspan></tspan>
+<tspan x="132" y="154">              <tspan class="v">for channel administrators.</tspan></tspan>
+<tspan x="132" y="174"></tspan>
+<tspan x="132" y="194"><tspan class="m">. </tspan><tspan class="k">Solution</tspan>:<tspan class="m"> . </tspan><tspan class="v">An admin SaaS bot, dedicated gatekeeper bots, billing, access</tspan></tspan>
+<tspan x="132" y="214">              <tspan class="v">provisioning, automatic removal and service notifications.</tspan></tspan>
+<tspan x="132" y="234"></tspan>
+<tspan x="132" y="254"><tspan class="m">. </tspan><tspan class="k">Result</tspan>:<tspan class="m"> ... </tspan><tspan class="v">A production stack backed by PostgreSQL, Docker, nginx and Cloudflare</tspan></tspan>
+<tspan x="132" y="274">              <tspan class="v">Tunnel.</tspan></tspan>
+<tspan x="132" y="294"></tspan>
+<tspan x="132" y="314"><tspan class="m">. </tspan><tspan class="k">Stack</tspan>:<tspan class="m"> .... </tspan><tspan class="s">Node.js · Express · PostgreSQL · Telegram Bot API · Docker · nginx ·</tspan></tspan>
+<tspan x="132" y="334">              <tspan class="s">Cloudflare Tunnel</tspan></tspan>
+<tspan x="132" y="354"></tspan>
+<tspan x="132" y="374"><tspan class="m">. </tspan><tspan class="k">Link</tspan>:<tspan class="m"> ..... </tspan><tspan class="l">t.me/attractsub_bot</tspan></tspan>
 </text>
 </svg>

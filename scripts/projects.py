@@ -123,13 +123,17 @@ def field(key, value, cls="v"):
 def card_lines(i, p):
     title = f"{i:02d}  {p['title']}"
     rule = "—" * (WRAP - len(title) - len(p["kind"]) - 6)
+    sections = [
+        field("About", p["about"], "x"),
+        field("Task", p["task"]),
+        field("Solution", p["solution"]),
+        field("Result", p["result"]),
+        field("Stack", " · ".join(p["stack"]), "s"),
+        field("Link", p["link"].removeprefix("https://").rstrip("/"), "l"),
+    ]
     lines = [span("m", "- ") + span("t", title) + " " + span("m", rule) + " " + span("k", p["kind"])]
-    lines += field("About", p["about"], "x")
-    lines += field("Task", p["task"])
-    lines += field("Solution", p["solution"])
-    lines += field("Result", p["result"])
-    lines += field("Stack", " · ".join(p["stack"]), "s")
-    lines += field("Link", p["link"].removeprefix("https://").rstrip("/"), "l")
+    for sec in sections:          # a blank line after the title and between sections
+        lines += [""] + sec
     return lines
 
 
