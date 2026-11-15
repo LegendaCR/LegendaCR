@@ -1,6 +1,6 @@
 """Project cards for the profile README: one full-width card per project.
 
-Order, texts, stacks, links and logos mirror the portfolio site (legenda-store.ru/projects).
+Texts, stacks, links and logos mirror the portfolio site (legenda-store.ru/projects); order is ORDER below.
 Each card is its own SVG so the README can wrap it in a link to that project.
 """
 import base64
@@ -99,6 +99,10 @@ PROJECTS = [
         "link": "https://t.me/Legend_all_bot",
     },
 ]
+
+# Display order on the profile (cards are numbered in this order)
+ORDER = ["crm", "verdikt", "size-of-space", "ai-news", "attract", "brain-train", "safronic", "legend-defense", "all-bot"]
+PROJECTS.sort(key=lambda p: ORDER.index(p["slug"]))
 
 WIDTH, LH = 985, 20
 TEXT_X, LOGO = 132, 88       # text column start, logo size in px

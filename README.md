@@ -17,38 +17,38 @@
 </picture>
 </a>
 
-<a href="https://legendacr.github.io/size-of-space/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./projects/02-size-of-space-dark.svg">
-  <img alt="Size of Space — Interactive WebGL site: A journey through the scale of the universe: 79 objects from asteroid Bennu to the whole observable universe." src="./projects/02-size-of-space-light.svg">
-</picture>
-</a>
-
-<a href="https://t.me/attractsub_bot">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./projects/03-attract-dark.svg">
-  <img alt="Attract Platform — Telegram SaaS: A commercial platform for monetising channels through paid subscriptions." src="./projects/03-attract-light.svg">
-</picture>
-</a>
-
-<a href="https://t.me/braintrainru_bot">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./projects/04-brain-train-dark.svg">
-  <img alt="Brain Train — Telegram Mini App: A game platform for memory, attention and logic training." src="./projects/04-brain-train-light.svg">
-</picture>
-</a>
-
 <a href="https://t.me/verdikt_menu_bot">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./projects/05-verdikt-dark.svg">
-  <img alt="Verdikt Base — Telegram Mini App: A private navigation app for Maks Verdikt&#x27;s community: all content and chats in one place." src="./projects/05-verdikt-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./projects/02-verdikt-dark.svg">
+  <img alt="Verdikt Base — Telegram Mini App: A private navigation app for Maks Verdikt&#x27;s community: all content and chats in one place." src="./projects/02-verdikt-light.svg">
+</picture>
+</a>
+
+<a href="https://legendacr.github.io/size-of-space/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./projects/03-size-of-space-dark.svg">
+  <img alt="Size of Space — Interactive WebGL site: A journey through the scale of the universe: 79 objects from asteroid Bennu to the whole observable universe." src="./projects/03-size-of-space-light.svg">
 </picture>
 </a>
 
 <a href="https://t.me/A1News_world">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./projects/06-ai-news-dark.svg">
-  <img alt="AI News — AI automation: A self-running Telegram channel about AI news, with an AI model finding, verifying and writing every post." src="./projects/06-ai-news-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./projects/04-ai-news-dark.svg">
+  <img alt="AI News — AI automation: A self-running Telegram channel about AI news, with an AI model finding, verifying and writing every post." src="./projects/04-ai-news-light.svg">
+</picture>
+</a>
+
+<a href="https://t.me/attractsub_bot">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./projects/05-attract-dark.svg">
+  <img alt="Attract Platform — Telegram SaaS: A commercial platform for monetising channels through paid subscriptions." src="./projects/05-attract-light.svg">
+</picture>
+</a>
+
+<a href="https://t.me/braintrainru_bot">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./projects/06-brain-train-dark.svg">
+  <img alt="Brain Train — Telegram Mini App: A game platform for memory, attention and logic training." src="./projects/06-brain-train-light.svg">
 </picture>
 </a>
 

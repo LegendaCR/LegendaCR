@@ -2,21 +2,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,'JetBrains Mono','DejaVu Sans Mono',monospace" width="985px" height="400px" font-size="16px">
 <title>Attract Platform — Telegram SaaS</title>
 <style>
-.k {fill: #953800;}
-.v {fill: #0a3069;}
-.m {fill: #8c959f;}
-.t {fill: #24292f; font-weight: 700;}
-.x {fill: #24292f;}
-.s {fill: #1a7f37;}
-.l {fill: #0a3069; text-decoration: underline;}
+.k {fill: #ffa657;}
+.v {fill: #a5d6ff;}
+.m {fill: #616e7f;}
+.t {fill: #c9d1d9; font-weight: 700;}
+.x {fill: #c9d1d9;}
+.s {fill: #3fb950;}
+.l {fill: #a5d6ff; text-decoration: underline;}
 text, tspan {white-space: pre; font-variant-ligatures: none;}
 </style>
 <defs><clipPath id="lg"><rect x="24" y="24" width="88" height="88" rx="20"/></clipPath></defs>
-<rect width="985px" height="400px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="400px" fill="#161b22" rx="15"/>
 <image x="24" y="24" width="88" height="88" clip-path="url(#lg)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAFVBMVEUBAQEAAgABAgABBAACAwAAAgMAAgEVtgm0AAAAXklEQVRo3u3QMQ3AMAxEUVOwzCAMIlMwhVIIfwhpu3e6SO7w335/ODMAwE/5aA54VF1qYImBHN4Y8FtUZ+ApxFQDrgRMGh8J4FuleK8eqKkGUgtkewAAAAAAAAAA8NqMeApYZruE6gAAAABJRU5ErkJggg==" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACABAMAAAAxEHz4AAAAFVBMVEUBAQEAAgABAgABBAACAwAAAgMAAgEVtgm0AAAAXklEQVRo3u3QMQ3AMAxEUVOwzCAMIlMwhVIIfwhpu3e6SO7w335/ODMAwE/5aA54VF1qYImBHN4Y8FtUZ+ApxFQDrgRMGh8J4FuleK8eqKkGUgtkewAAAAAAAAAA8NqMeApYZruE6gAAAABJRU5ErkJggg=="/>
-<rect x="24.5" y="24.5" width="87" height="87" rx="19.5" fill="none" stroke="#d0d7de"/>
-<text x="132" y="34" fill="#24292f" xml:space="preserve">
-<tspan x="132" y="34"><tspan class="m">- </tspan><tspan class="t">03  Attract Platform</tspan> <tspan class="m">—————————————————————————————————————————————</tspan> <tspan class="k">Telegram SaaS</tspan></tspan>
+<rect x="24.5" y="24.5" width="87" height="87" rx="19.5" fill="none" stroke="#30363d"/>
+<text x="132" y="34" fill="#c9d1d9" xml:space="preserve">
+<tspan x="132" y="34"><tspan class="m">- </tspan><tspan class="t">05  Attract Platform</tspan> <tspan class="m">—————————————————————————————————————————————</tspan> <tspan class="k">Telegram SaaS</tspan></tspan>
 <tspan x="132" y="54"></tspan>
 <tspan x="132" y="74"><tspan class="m">. </tspan><tspan class="k">About</tspan>:<tspan class="m"> .... </tspan><tspan class="x">A commercial platform for monetising channels through paid</tspan></tspan>
 <tspan x="132" y="94">              <tspan class="x">subscriptions.</tspan></tspan>
